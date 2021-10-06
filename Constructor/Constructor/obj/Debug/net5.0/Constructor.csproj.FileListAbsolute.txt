@@ -1,0 +1,15 @@
+D:\C#\C-Sharp-ASP.NET\Constructor\Constructor\bin\Debug\net5.0\Constructor.exe
+D:\C#\C-Sharp-ASP.NET\Constructor\Constructor\bin\Debug\net5.0\Constructor.deps.json
+D:\C#\C-Sharp-ASP.NET\Constructor\Constructor\bin\Debug\net5.0\Constructor.runtimeconfig.json
+D:\C#\C-Sharp-ASP.NET\Constructor\Constructor\bin\Debug\net5.0\Constructor.runtimeconfig.dev.json
+D:\C#\C-Sharp-ASP.NET\Constructor\Constructor\bin\Debug\net5.0\Constructor.dll
+D:\C#\C-Sharp-ASP.NET\Constructor\Constructor\bin\Debug\net5.0\ref\Constructor.dll
+D:\C#\C-Sharp-ASP.NET\Constructor\Constructor\bin\Debug\net5.0\Constructor.pdb
+D:\C#\C-Sharp-ASP.NET\Constructor\Constructor\obj\Debug\net5.0\Constructor.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\C-Sharp-ASP.NET\Constructor\Constructor\obj\Debug\net5.0\Constructor.AssemblyInfoInputs.cache
+D:\C#\C-Sharp-ASP.NET\Constructor\Constructor\obj\Debug\net5.0\Constructor.AssemblyInfo.cs
+D:\C#\C-Sharp-ASP.NET\Constructor\Constructor\obj\Debug\net5.0\Constructor.csproj.CoreCompileInputs.cache
+D:\C#\C-Sharp-ASP.NET\Constructor\Constructor\obj\Debug\net5.0\Constructor.dll
+D:\C#\C-Sharp-ASP.NET\Constructor\Constructor\obj\Debug\net5.0\ref\Constructor.dll
+D:\C#\C-Sharp-ASP.NET\Constructor\Constructor\obj\Debug\net5.0\Constructor.pdb
+D:\C#\C-Sharp-ASP.NET\Constructor\Constructor\obj\Debug\net5.0\Constructor.genruntimeconfig.cache

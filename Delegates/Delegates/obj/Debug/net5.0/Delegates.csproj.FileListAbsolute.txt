@@ -1,0 +1,16 @@
+D:\C#\C-Sharp-ASP.NET\Delegates\Delegates\bin\Debug\net5.0\Delegates.exe
+D:\C#\C-Sharp-ASP.NET\Delegates\Delegates\bin\Debug\net5.0\Delegates.deps.json
+D:\C#\C-Sharp-ASP.NET\Delegates\Delegates\bin\Debug\net5.0\Delegates.runtimeconfig.json
+D:\C#\C-Sharp-ASP.NET\Delegates\Delegates\bin\Debug\net5.0\Delegates.runtimeconfig.dev.json
+D:\C#\C-Sharp-ASP.NET\Delegates\Delegates\bin\Debug\net5.0\Delegates.dll
+D:\C#\C-Sharp-ASP.NET\Delegates\Delegates\bin\Debug\net5.0\ref\Delegates.dll
+D:\C#\C-Sharp-ASP.NET\Delegates\Delegates\bin\Debug\net5.0\Delegates.pdb
+D:\C#\C-Sharp-ASP.NET\Delegates\Delegates\obj\Debug\net5.0\Delegates.csproj.AssemblyReference.cache
+D:\C#\C-Sharp-ASP.NET\Delegates\Delegates\obj\Debug\net5.0\Delegates.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\C-Sharp-ASP.NET\Delegates\Delegates\obj\Debug\net5.0\Delegates.AssemblyInfoInputs.cache
+D:\C#\C-Sharp-ASP.NET\Delegates\Delegates\obj\Debug\net5.0\Delegates.AssemblyInfo.cs
+D:\C#\C-Sharp-ASP.NET\Delegates\Delegates\obj\Debug\net5.0\Delegates.csproj.CoreCompileInputs.cache
+D:\C#\C-Sharp-ASP.NET\Delegates\Delegates\obj\Debug\net5.0\Delegates.dll
+D:\C#\C-Sharp-ASP.NET\Delegates\Delegates\obj\Debug\net5.0\ref\Delegates.dll
+D:\C#\C-Sharp-ASP.NET\Delegates\Delegates\obj\Debug\net5.0\Delegates.pdb
+D:\C#\C-Sharp-ASP.NET\Delegates\Delegates\obj\Debug\net5.0\Delegates.genruntimeconfig.cache

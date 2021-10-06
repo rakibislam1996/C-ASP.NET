@@ -1,0 +1,16 @@
+D:\C#\C-Sharp-ASP.NET\MathClass\MathClass\bin\Debug\net5.0\MathClass.exe
+D:\C#\C-Sharp-ASP.NET\MathClass\MathClass\bin\Debug\net5.0\MathClass.deps.json
+D:\C#\C-Sharp-ASP.NET\MathClass\MathClass\bin\Debug\net5.0\MathClass.runtimeconfig.json
+D:\C#\C-Sharp-ASP.NET\MathClass\MathClass\bin\Debug\net5.0\MathClass.runtimeconfig.dev.json
+D:\C#\C-Sharp-ASP.NET\MathClass\MathClass\bin\Debug\net5.0\MathClass.dll
+D:\C#\C-Sharp-ASP.NET\MathClass\MathClass\bin\Debug\net5.0\ref\MathClass.dll
+D:\C#\C-Sharp-ASP.NET\MathClass\MathClass\bin\Debug\net5.0\MathClass.pdb
+D:\C#\C-Sharp-ASP.NET\MathClass\MathClass\obj\Debug\net5.0\MathClass.csproj.AssemblyReference.cache
+D:\C#\C-Sharp-ASP.NET\MathClass\MathClass\obj\Debug\net5.0\MathClass.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\C-Sharp-ASP.NET\MathClass\MathClass\obj\Debug\net5.0\MathClass.AssemblyInfoInputs.cache
+D:\C#\C-Sharp-ASP.NET\MathClass\MathClass\obj\Debug\net5.0\MathClass.AssemblyInfo.cs
+D:\C#\C-Sharp-ASP.NET\MathClass\MathClass\obj\Debug\net5.0\MathClass.csproj.CoreCompileInputs.cache
+D:\C#\C-Sharp-ASP.NET\MathClass\MathClass\obj\Debug\net5.0\MathClass.dll
+D:\C#\C-Sharp-ASP.NET\MathClass\MathClass\obj\Debug\net5.0\ref\MathClass.dll
+D:\C#\C-Sharp-ASP.NET\MathClass\MathClass\obj\Debug\net5.0\MathClass.pdb
+D:\C#\C-Sharp-ASP.NET\MathClass\MathClass\obj\Debug\net5.0\MathClass.genruntimeconfig.cache

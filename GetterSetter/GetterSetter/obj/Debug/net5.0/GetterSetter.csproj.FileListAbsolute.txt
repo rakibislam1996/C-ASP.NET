@@ -1,0 +1,16 @@
+D:\C#\C-Sharp-ASP.NET\GetterSetter\GetterSetter\bin\Debug\net5.0\GetterSetter.exe
+D:\C#\C-Sharp-ASP.NET\GetterSetter\GetterSetter\bin\Debug\net5.0\GetterSetter.deps.json
+D:\C#\C-Sharp-ASP.NET\GetterSetter\GetterSetter\bin\Debug\net5.0\GetterSetter.runtimeconfig.json
+D:\C#\C-Sharp-ASP.NET\GetterSetter\GetterSetter\bin\Debug\net5.0\GetterSetter.runtimeconfig.dev.json
+D:\C#\C-Sharp-ASP.NET\GetterSetter\GetterSetter\bin\Debug\net5.0\GetterSetter.dll
+D:\C#\C-Sharp-ASP.NET\GetterSetter\GetterSetter\bin\Debug\net5.0\ref\GetterSetter.dll
+D:\C#\C-Sharp-ASP.NET\GetterSetter\GetterSetter\bin\Debug\net5.0\GetterSetter.pdb
+D:\C#\C-Sharp-ASP.NET\GetterSetter\GetterSetter\obj\Debug\net5.0\GetterSetter.csproj.AssemblyReference.cache
+D:\C#\C-Sharp-ASP.NET\GetterSetter\GetterSetter\obj\Debug\net5.0\GetterSetter.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\C-Sharp-ASP.NET\GetterSetter\GetterSetter\obj\Debug\net5.0\GetterSetter.AssemblyInfoInputs.cache
+D:\C#\C-Sharp-ASP.NET\GetterSetter\GetterSetter\obj\Debug\net5.0\GetterSetter.AssemblyInfo.cs
+D:\C#\C-Sharp-ASP.NET\GetterSetter\GetterSetter\obj\Debug\net5.0\GetterSetter.csproj.CoreCompileInputs.cache
+D:\C#\C-Sharp-ASP.NET\GetterSetter\GetterSetter\obj\Debug\net5.0\GetterSetter.dll
+D:\C#\C-Sharp-ASP.NET\GetterSetter\GetterSetter\obj\Debug\net5.0\ref\GetterSetter.dll
+D:\C#\C-Sharp-ASP.NET\GetterSetter\GetterSetter\obj\Debug\net5.0\GetterSetter.pdb
+D:\C#\C-Sharp-ASP.NET\GetterSetter\GetterSetter\obj\Debug\net5.0\GetterSetter.genruntimeconfig.cache

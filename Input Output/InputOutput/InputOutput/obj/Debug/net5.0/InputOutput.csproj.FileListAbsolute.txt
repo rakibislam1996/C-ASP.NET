@@ -1,0 +1,32 @@
+D:\C#\My C# Codes\Input Output\InputOutput\InputOutput\bin\Debug\net5.0\InputOutput.exe
+D:\C#\My C# Codes\Input Output\InputOutput\InputOutput\bin\Debug\net5.0\InputOutput.deps.json
+D:\C#\My C# Codes\Input Output\InputOutput\InputOutput\bin\Debug\net5.0\InputOutput.runtimeconfig.json
+D:\C#\My C# Codes\Input Output\InputOutput\InputOutput\bin\Debug\net5.0\InputOutput.runtimeconfig.dev.json
+D:\C#\My C# Codes\Input Output\InputOutput\InputOutput\bin\Debug\net5.0\InputOutput.dll
+D:\C#\My C# Codes\Input Output\InputOutput\InputOutput\bin\Debug\net5.0\ref\InputOutput.dll
+D:\C#\My C# Codes\Input Output\InputOutput\InputOutput\bin\Debug\net5.0\InputOutput.pdb
+D:\C#\My C# Codes\Input Output\InputOutput\InputOutput\obj\Debug\net5.0\InputOutput.csproj.AssemblyReference.cache
+D:\C#\My C# Codes\Input Output\InputOutput\InputOutput\obj\Debug\net5.0\InputOutput.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\My C# Codes\Input Output\InputOutput\InputOutput\obj\Debug\net5.0\InputOutput.AssemblyInfoInputs.cache
+D:\C#\My C# Codes\Input Output\InputOutput\InputOutput\obj\Debug\net5.0\InputOutput.AssemblyInfo.cs
+D:\C#\My C# Codes\Input Output\InputOutput\InputOutput\obj\Debug\net5.0\InputOutput.csproj.CoreCompileInputs.cache
+D:\C#\My C# Codes\Input Output\InputOutput\InputOutput\obj\Debug\net5.0\InputOutput.dll
+D:\C#\My C# Codes\Input Output\InputOutput\InputOutput\obj\Debug\net5.0\ref\InputOutput.dll
+D:\C#\My C# Codes\Input Output\InputOutput\InputOutput\obj\Debug\net5.0\InputOutput.pdb
+D:\C#\My C# Codes\Input Output\InputOutput\InputOutput\obj\Debug\net5.0\InputOutput.genruntimeconfig.cache
+D:\C#\C-Sharp-ASP.NET\Input Output\InputOutput\InputOutput\bin\Debug\net5.0\InputOutput.exe
+D:\C#\C-Sharp-ASP.NET\Input Output\InputOutput\InputOutput\bin\Debug\net5.0\InputOutput.deps.json
+D:\C#\C-Sharp-ASP.NET\Input Output\InputOutput\InputOutput\bin\Debug\net5.0\InputOutput.runtimeconfig.json
+D:\C#\C-Sharp-ASP.NET\Input Output\InputOutput\InputOutput\bin\Debug\net5.0\InputOutput.runtimeconfig.dev.json
+D:\C#\C-Sharp-ASP.NET\Input Output\InputOutput\InputOutput\bin\Debug\net5.0\InputOutput.dll
+D:\C#\C-Sharp-ASP.NET\Input Output\InputOutput\InputOutput\bin\Debug\net5.0\ref\InputOutput.dll
+D:\C#\C-Sharp-ASP.NET\Input Output\InputOutput\InputOutput\bin\Debug\net5.0\InputOutput.pdb
+D:\C#\C-Sharp-ASP.NET\Input Output\InputOutput\InputOutput\obj\Debug\net5.0\InputOutput.csproj.AssemblyReference.cache
+D:\C#\C-Sharp-ASP.NET\Input Output\InputOutput\InputOutput\obj\Debug\net5.0\InputOutput.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\C-Sharp-ASP.NET\Input Output\InputOutput\InputOutput\obj\Debug\net5.0\InputOutput.AssemblyInfoInputs.cache
+D:\C#\C-Sharp-ASP.NET\Input Output\InputOutput\InputOutput\obj\Debug\net5.0\InputOutput.AssemblyInfo.cs
+D:\C#\C-Sharp-ASP.NET\Input Output\InputOutput\InputOutput\obj\Debug\net5.0\InputOutput.csproj.CoreCompileInputs.cache
+D:\C#\C-Sharp-ASP.NET\Input Output\InputOutput\InputOutput\obj\Debug\net5.0\InputOutput.dll
+D:\C#\C-Sharp-ASP.NET\Input Output\InputOutput\InputOutput\obj\Debug\net5.0\ref\InputOutput.dll
+D:\C#\C-Sharp-ASP.NET\Input Output\InputOutput\InputOutput\obj\Debug\net5.0\InputOutput.pdb
+D:\C#\C-Sharp-ASP.NET\Input Output\InputOutput\InputOutput\obj\Debug\net5.0\InputOutput.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+D:\C#\C-Sharp-ASP.NET\Arrays\Arrays\bin\Debug\net5.0\Arrays.exe
+D:\C#\C-Sharp-ASP.NET\Arrays\Arrays\bin\Debug\net5.0\Arrays.deps.json
+D:\C#\C-Sharp-ASP.NET\Arrays\Arrays\bin\Debug\net5.0\Arrays.runtimeconfig.json
+D:\C#\C-Sharp-ASP.NET\Arrays\Arrays\bin\Debug\net5.0\Arrays.runtimeconfig.dev.json
+D:\C#\C-Sharp-ASP.NET\Arrays\Arrays\bin\Debug\net5.0\Arrays.dll
+D:\C#\C-Sharp-ASP.NET\Arrays\Arrays\bin\Debug\net5.0\ref\Arrays.dll
+D:\C#\C-Sharp-ASP.NET\Arrays\Arrays\bin\Debug\net5.0\Arrays.pdb
+D:\C#\C-Sharp-ASP.NET\Arrays\Arrays\obj\Debug\net5.0\Arrays.csproj.AssemblyReference.cache
+D:\C#\C-Sharp-ASP.NET\Arrays\Arrays\obj\Debug\net5.0\Arrays.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\C-Sharp-ASP.NET\Arrays\Arrays\obj\Debug\net5.0\Arrays.AssemblyInfoInputs.cache
+D:\C#\C-Sharp-ASP.NET\Arrays\Arrays\obj\Debug\net5.0\Arrays.AssemblyInfo.cs
+D:\C#\C-Sharp-ASP.NET\Arrays\Arrays\obj\Debug\net5.0\Arrays.csproj.CoreCompileInputs.cache
+D:\C#\C-Sharp-ASP.NET\Arrays\Arrays\obj\Debug\net5.0\Arrays.dll
+D:\C#\C-Sharp-ASP.NET\Arrays\Arrays\obj\Debug\net5.0\ref\Arrays.dll
+D:\C#\C-Sharp-ASP.NET\Arrays\Arrays\obj\Debug\net5.0\Arrays.pdb
+D:\C#\C-Sharp-ASP.NET\Arrays\Arrays\obj\Debug\net5.0\Arrays.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+D:\C#\C-Sharp-ASP.NET\MultiArray\MultiArray\bin\Debug\net5.0\MultiArray.exe
+D:\C#\C-Sharp-ASP.NET\MultiArray\MultiArray\bin\Debug\net5.0\MultiArray.deps.json
+D:\C#\C-Sharp-ASP.NET\MultiArray\MultiArray\bin\Debug\net5.0\MultiArray.runtimeconfig.json
+D:\C#\C-Sharp-ASP.NET\MultiArray\MultiArray\bin\Debug\net5.0\MultiArray.runtimeconfig.dev.json
+D:\C#\C-Sharp-ASP.NET\MultiArray\MultiArray\bin\Debug\net5.0\MultiArray.dll
+D:\C#\C-Sharp-ASP.NET\MultiArray\MultiArray\bin\Debug\net5.0\ref\MultiArray.dll
+D:\C#\C-Sharp-ASP.NET\MultiArray\MultiArray\bin\Debug\net5.0\MultiArray.pdb
+D:\C#\C-Sharp-ASP.NET\MultiArray\MultiArray\obj\Debug\net5.0\MultiArray.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\C-Sharp-ASP.NET\MultiArray\MultiArray\obj\Debug\net5.0\MultiArray.AssemblyInfoInputs.cache
+D:\C#\C-Sharp-ASP.NET\MultiArray\MultiArray\obj\Debug\net5.0\MultiArray.AssemblyInfo.cs
+D:\C#\C-Sharp-ASP.NET\MultiArray\MultiArray\obj\Debug\net5.0\MultiArray.csproj.CoreCompileInputs.cache
+D:\C#\C-Sharp-ASP.NET\MultiArray\MultiArray\obj\Debug\net5.0\MultiArray.dll
+D:\C#\C-Sharp-ASP.NET\MultiArray\MultiArray\obj\Debug\net5.0\ref\MultiArray.dll
+D:\C#\C-Sharp-ASP.NET\MultiArray\MultiArray\obj\Debug\net5.0\MultiArray.pdb
+D:\C#\C-Sharp-ASP.NET\MultiArray\MultiArray\obj\Debug\net5.0\MultiArray.genruntimeconfig.cache

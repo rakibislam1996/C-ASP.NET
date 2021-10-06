@@ -1,0 +1,30 @@
+D:\C#\C-Sharp-ASP.NET\Methods\Methods\bin\Debug\net5.0\StaticMethods.exe
+D:\C#\C-Sharp-ASP.NET\Methods\Methods\bin\Debug\net5.0\StaticMethods.deps.json
+D:\C#\C-Sharp-ASP.NET\Methods\Methods\bin\Debug\net5.0\StaticMethods.runtimeconfig.json
+D:\C#\C-Sharp-ASP.NET\Methods\Methods\bin\Debug\net5.0\StaticMethods.runtimeconfig.dev.json
+D:\C#\C-Sharp-ASP.NET\Methods\Methods\bin\Debug\net5.0\StaticMethods.dll
+D:\C#\C-Sharp-ASP.NET\Methods\Methods\bin\Debug\net5.0\ref\StaticMethods.dll
+D:\C#\C-Sharp-ASP.NET\Methods\Methods\bin\Debug\net5.0\StaticMethods.pdb
+D:\C#\C-Sharp-ASP.NET\Methods\Methods\obj\Debug\net5.0\StaticMethods.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\C-Sharp-ASP.NET\Methods\Methods\obj\Debug\net5.0\StaticMethods.AssemblyInfoInputs.cache
+D:\C#\C-Sharp-ASP.NET\Methods\Methods\obj\Debug\net5.0\StaticMethods.AssemblyInfo.cs
+D:\C#\C-Sharp-ASP.NET\Methods\Methods\obj\Debug\net5.0\StaticMethods.csproj.CoreCompileInputs.cache
+D:\C#\C-Sharp-ASP.NET\Methods\Methods\obj\Debug\net5.0\StaticMethods.dll
+D:\C#\C-Sharp-ASP.NET\Methods\Methods\obj\Debug\net5.0\ref\StaticMethods.dll
+D:\C#\C-Sharp-ASP.NET\Methods\Methods\obj\Debug\net5.0\StaticMethods.pdb
+D:\C#\C-Sharp-ASP.NET\Methods\Methods\obj\Debug\net5.0\StaticMethods.genruntimeconfig.cache
+D:\C#\C-Sharp-ASP.NET\Static Methods\Methods\bin\Debug\net5.0\StaticMethods.exe
+D:\C#\C-Sharp-ASP.NET\Static Methods\Methods\bin\Debug\net5.0\StaticMethods.deps.json
+D:\C#\C-Sharp-ASP.NET\Static Methods\Methods\bin\Debug\net5.0\StaticMethods.runtimeconfig.json
+D:\C#\C-Sharp-ASP.NET\Static Methods\Methods\bin\Debug\net5.0\StaticMethods.runtimeconfig.dev.json
+D:\C#\C-Sharp-ASP.NET\Static Methods\Methods\bin\Debug\net5.0\StaticMethods.dll
+D:\C#\C-Sharp-ASP.NET\Static Methods\Methods\bin\Debug\net5.0\ref\StaticMethods.dll
+D:\C#\C-Sharp-ASP.NET\Static Methods\Methods\bin\Debug\net5.0\StaticMethods.pdb
+D:\C#\C-Sharp-ASP.NET\Static Methods\Methods\obj\Debug\net5.0\StaticMethods.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\C-Sharp-ASP.NET\Static Methods\Methods\obj\Debug\net5.0\StaticMethods.AssemblyInfoInputs.cache
+D:\C#\C-Sharp-ASP.NET\Static Methods\Methods\obj\Debug\net5.0\StaticMethods.AssemblyInfo.cs
+D:\C#\C-Sharp-ASP.NET\Static Methods\Methods\obj\Debug\net5.0\StaticMethods.csproj.CoreCompileInputs.cache
+D:\C#\C-Sharp-ASP.NET\Static Methods\Methods\obj\Debug\net5.0\StaticMethods.dll
+D:\C#\C-Sharp-ASP.NET\Static Methods\Methods\obj\Debug\net5.0\ref\StaticMethods.dll
+D:\C#\C-Sharp-ASP.NET\Static Methods\Methods\obj\Debug\net5.0\StaticMethods.pdb
+D:\C#\C-Sharp-ASP.NET\Static Methods\Methods\obj\Debug\net5.0\StaticMethods.genruntimeconfig.cache

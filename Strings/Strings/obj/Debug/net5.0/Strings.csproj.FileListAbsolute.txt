@@ -1,0 +1,16 @@
+D:\C#\C-Sharp-ASP.NET\Strings\Strings\bin\Debug\net5.0\Strings.exe
+D:\C#\C-Sharp-ASP.NET\Strings\Strings\bin\Debug\net5.0\Strings.deps.json
+D:\C#\C-Sharp-ASP.NET\Strings\Strings\bin\Debug\net5.0\Strings.runtimeconfig.json
+D:\C#\C-Sharp-ASP.NET\Strings\Strings\bin\Debug\net5.0\Strings.runtimeconfig.dev.json
+D:\C#\C-Sharp-ASP.NET\Strings\Strings\bin\Debug\net5.0\Strings.dll
+D:\C#\C-Sharp-ASP.NET\Strings\Strings\bin\Debug\net5.0\ref\Strings.dll
+D:\C#\C-Sharp-ASP.NET\Strings\Strings\bin\Debug\net5.0\Strings.pdb
+D:\C#\C-Sharp-ASP.NET\Strings\Strings\obj\Debug\net5.0\Strings.csproj.AssemblyReference.cache
+D:\C#\C-Sharp-ASP.NET\Strings\Strings\obj\Debug\net5.0\Strings.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\C-Sharp-ASP.NET\Strings\Strings\obj\Debug\net5.0\Strings.AssemblyInfoInputs.cache
+D:\C#\C-Sharp-ASP.NET\Strings\Strings\obj\Debug\net5.0\Strings.AssemblyInfo.cs
+D:\C#\C-Sharp-ASP.NET\Strings\Strings\obj\Debug\net5.0\Strings.csproj.CoreCompileInputs.cache
+D:\C#\C-Sharp-ASP.NET\Strings\Strings\obj\Debug\net5.0\Strings.dll
+D:\C#\C-Sharp-ASP.NET\Strings\Strings\obj\Debug\net5.0\ref\Strings.dll
+D:\C#\C-Sharp-ASP.NET\Strings\Strings\obj\Debug\net5.0\Strings.pdb
+D:\C#\C-Sharp-ASP.NET\Strings\Strings\obj\Debug\net5.0\Strings.genruntimeconfig.cache

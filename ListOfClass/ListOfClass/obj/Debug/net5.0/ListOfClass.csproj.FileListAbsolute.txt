@@ -1,0 +1,16 @@
+D:\C#\C-Sharp-ASP.NET\ListOfClass\ListOfClass\bin\Debug\net5.0\ListOfClass.exe
+D:\C#\C-Sharp-ASP.NET\ListOfClass\ListOfClass\bin\Debug\net5.0\ListOfClass.deps.json
+D:\C#\C-Sharp-ASP.NET\ListOfClass\ListOfClass\bin\Debug\net5.0\ListOfClass.runtimeconfig.json
+D:\C#\C-Sharp-ASP.NET\ListOfClass\ListOfClass\bin\Debug\net5.0\ListOfClass.runtimeconfig.dev.json
+D:\C#\C-Sharp-ASP.NET\ListOfClass\ListOfClass\bin\Debug\net5.0\ListOfClass.dll
+D:\C#\C-Sharp-ASP.NET\ListOfClass\ListOfClass\bin\Debug\net5.0\ref\ListOfClass.dll
+D:\C#\C-Sharp-ASP.NET\ListOfClass\ListOfClass\bin\Debug\net5.0\ListOfClass.pdb
+D:\C#\C-Sharp-ASP.NET\ListOfClass\ListOfClass\obj\Debug\net5.0\ListOfClass.csproj.AssemblyReference.cache
+D:\C#\C-Sharp-ASP.NET\ListOfClass\ListOfClass\obj\Debug\net5.0\ListOfClass.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\C-Sharp-ASP.NET\ListOfClass\ListOfClass\obj\Debug\net5.0\ListOfClass.AssemblyInfoInputs.cache
+D:\C#\C-Sharp-ASP.NET\ListOfClass\ListOfClass\obj\Debug\net5.0\ListOfClass.AssemblyInfo.cs
+D:\C#\C-Sharp-ASP.NET\ListOfClass\ListOfClass\obj\Debug\net5.0\ListOfClass.csproj.CoreCompileInputs.cache
+D:\C#\C-Sharp-ASP.NET\ListOfClass\ListOfClass\obj\Debug\net5.0\ListOfClass.dll
+D:\C#\C-Sharp-ASP.NET\ListOfClass\ListOfClass\obj\Debug\net5.0\ref\ListOfClass.dll
+D:\C#\C-Sharp-ASP.NET\ListOfClass\ListOfClass\obj\Debug\net5.0\ListOfClass.pdb
+D:\C#\C-Sharp-ASP.NET\ListOfClass\ListOfClass\obj\Debug\net5.0\ListOfClass.genruntimeconfig.cache

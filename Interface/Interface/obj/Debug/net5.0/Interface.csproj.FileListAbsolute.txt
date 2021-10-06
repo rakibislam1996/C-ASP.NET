@@ -1,0 +1,16 @@
+D:\C#\C-Sharp-ASP.NET\Interface\Interface\bin\Debug\net5.0\Interface.exe
+D:\C#\C-Sharp-ASP.NET\Interface\Interface\bin\Debug\net5.0\Interface.deps.json
+D:\C#\C-Sharp-ASP.NET\Interface\Interface\bin\Debug\net5.0\Interface.runtimeconfig.json
+D:\C#\C-Sharp-ASP.NET\Interface\Interface\bin\Debug\net5.0\Interface.runtimeconfig.dev.json
+D:\C#\C-Sharp-ASP.NET\Interface\Interface\bin\Debug\net5.0\Interface.dll
+D:\C#\C-Sharp-ASP.NET\Interface\Interface\bin\Debug\net5.0\ref\Interface.dll
+D:\C#\C-Sharp-ASP.NET\Interface\Interface\bin\Debug\net5.0\Interface.pdb
+D:\C#\C-Sharp-ASP.NET\Interface\Interface\obj\Debug\net5.0\Interface.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\C-Sharp-ASP.NET\Interface\Interface\obj\Debug\net5.0\Interface.AssemblyInfoInputs.cache
+D:\C#\C-Sharp-ASP.NET\Interface\Interface\obj\Debug\net5.0\Interface.AssemblyInfo.cs
+D:\C#\C-Sharp-ASP.NET\Interface\Interface\obj\Debug\net5.0\Interface.csproj.CoreCompileInputs.cache
+D:\C#\C-Sharp-ASP.NET\Interface\Interface\obj\Debug\net5.0\Interface.dll
+D:\C#\C-Sharp-ASP.NET\Interface\Interface\obj\Debug\net5.0\ref\Interface.dll
+D:\C#\C-Sharp-ASP.NET\Interface\Interface\obj\Debug\net5.0\Interface.pdb
+D:\C#\C-Sharp-ASP.NET\Interface\Interface\obj\Debug\net5.0\Interface.genruntimeconfig.cache
+D:\C#\C-Sharp-ASP.NET\Interface\Interface\obj\Debug\net5.0\Interface.csproj.AssemblyReference.cache

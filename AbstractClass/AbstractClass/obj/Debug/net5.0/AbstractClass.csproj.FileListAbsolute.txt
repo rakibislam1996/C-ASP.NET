@@ -1,0 +1,16 @@
+D:\C#\C-Sharp-ASP.NET\AbstractClass\AbstractClass\bin\Debug\net5.0\AbstractClass.exe
+D:\C#\C-Sharp-ASP.NET\AbstractClass\AbstractClass\bin\Debug\net5.0\AbstractClass.deps.json
+D:\C#\C-Sharp-ASP.NET\AbstractClass\AbstractClass\bin\Debug\net5.0\AbstractClass.runtimeconfig.json
+D:\C#\C-Sharp-ASP.NET\AbstractClass\AbstractClass\bin\Debug\net5.0\AbstractClass.runtimeconfig.dev.json
+D:\C#\C-Sharp-ASP.NET\AbstractClass\AbstractClass\bin\Debug\net5.0\AbstractClass.dll
+D:\C#\C-Sharp-ASP.NET\AbstractClass\AbstractClass\bin\Debug\net5.0\ref\AbstractClass.dll
+D:\C#\C-Sharp-ASP.NET\AbstractClass\AbstractClass\bin\Debug\net5.0\AbstractClass.pdb
+D:\C#\C-Sharp-ASP.NET\AbstractClass\AbstractClass\obj\Debug\net5.0\AbstractClass.csproj.AssemblyReference.cache
+D:\C#\C-Sharp-ASP.NET\AbstractClass\AbstractClass\obj\Debug\net5.0\AbstractClass.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\C-Sharp-ASP.NET\AbstractClass\AbstractClass\obj\Debug\net5.0\AbstractClass.AssemblyInfoInputs.cache
+D:\C#\C-Sharp-ASP.NET\AbstractClass\AbstractClass\obj\Debug\net5.0\AbstractClass.AssemblyInfo.cs
+D:\C#\C-Sharp-ASP.NET\AbstractClass\AbstractClass\obj\Debug\net5.0\AbstractClass.csproj.CoreCompileInputs.cache
+D:\C#\C-Sharp-ASP.NET\AbstractClass\AbstractClass\obj\Debug\net5.0\AbstractClass.dll
+D:\C#\C-Sharp-ASP.NET\AbstractClass\AbstractClass\obj\Debug\net5.0\ref\AbstractClass.dll
+D:\C#\C-Sharp-ASP.NET\AbstractClass\AbstractClass\obj\Debug\net5.0\AbstractClass.pdb
+D:\C#\C-Sharp-ASP.NET\AbstractClass\AbstractClass\obj\Debug\net5.0\AbstractClass.genruntimeconfig.cache

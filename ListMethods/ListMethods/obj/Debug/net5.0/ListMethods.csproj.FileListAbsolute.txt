@@ -1,0 +1,16 @@
+D:\C#\C-Sharp-ASP.NET\ListMethods\ListMethods\bin\Debug\net5.0\ListMethods.exe
+D:\C#\C-Sharp-ASP.NET\ListMethods\ListMethods\bin\Debug\net5.0\ListMethods.deps.json
+D:\C#\C-Sharp-ASP.NET\ListMethods\ListMethods\bin\Debug\net5.0\ListMethods.runtimeconfig.json
+D:\C#\C-Sharp-ASP.NET\ListMethods\ListMethods\bin\Debug\net5.0\ListMethods.runtimeconfig.dev.json
+D:\C#\C-Sharp-ASP.NET\ListMethods\ListMethods\bin\Debug\net5.0\ListMethods.dll
+D:\C#\C-Sharp-ASP.NET\ListMethods\ListMethods\bin\Debug\net5.0\ref\ListMethods.dll
+D:\C#\C-Sharp-ASP.NET\ListMethods\ListMethods\bin\Debug\net5.0\ListMethods.pdb
+D:\C#\C-Sharp-ASP.NET\ListMethods\ListMethods\obj\Debug\net5.0\ListMethods.csproj.AssemblyReference.cache
+D:\C#\C-Sharp-ASP.NET\ListMethods\ListMethods\obj\Debug\net5.0\ListMethods.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\C-Sharp-ASP.NET\ListMethods\ListMethods\obj\Debug\net5.0\ListMethods.AssemblyInfoInputs.cache
+D:\C#\C-Sharp-ASP.NET\ListMethods\ListMethods\obj\Debug\net5.0\ListMethods.AssemblyInfo.cs
+D:\C#\C-Sharp-ASP.NET\ListMethods\ListMethods\obj\Debug\net5.0\ListMethods.csproj.CoreCompileInputs.cache
+D:\C#\C-Sharp-ASP.NET\ListMethods\ListMethods\obj\Debug\net5.0\ListMethods.dll
+D:\C#\C-Sharp-ASP.NET\ListMethods\ListMethods\obj\Debug\net5.0\ref\ListMethods.dll
+D:\C#\C-Sharp-ASP.NET\ListMethods\ListMethods\obj\Debug\net5.0\ListMethods.pdb
+D:\C#\C-Sharp-ASP.NET\ListMethods\ListMethods\obj\Debug\net5.0\ListMethods.genruntimeconfig.cache

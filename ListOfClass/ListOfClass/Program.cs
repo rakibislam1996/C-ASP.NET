@@ -15,14 +15,34 @@ namespace ListOfClass
                 this.Id = Id;
                 this.Name = Name;
             }
-            public static void findStudent(List<Student> stu,int id)
+            public override string ToString()
+            {
+                return Name;
+            }
+            public override bool Equals(object obj)
+            {
+                return Id == ((Student)obj).Id;
+            }
+            public static void findStudent(List<Student> stu, Student newStu) // Do not returns
             {
                 foreach (Student item in stu)
-                {
-                    if (item.Id == id)
+                    if (item.Equals(newStu)) // Equals() method is overriden & modified
                         Console.WriteLine($"Student found:- Id :{item.Id} , Name : {item.Name}");
-                }
                 Console.WriteLine("Student not found");
+            }
+            public static int findStudent2(List<Student> stu, Student newStu) // returns index of obj
+            {
+                for (int i = 0; i < stu.Count; i++)
+                    if (stu[i].Equals(newStu)) // Equals() method is overriden & modified
+                        return i; 
+                return -1; 
+            }
+            public static Student findStudent3(List<Student> stu, Student newStu) // returns obj
+            {
+                foreach (Student item in stu)
+                    if (item.Equals(newStu)) // Equals() method is overriden & modified
+                        return item;
+                return null;
             }
         }
         static void Main(string[] args)
@@ -43,9 +63,7 @@ namespace ListOfClass
             students.Add(st[1]);
             
             foreach (var item in students)
-            {
                 Console.WriteLine($"Name: {item.Name}, Id: {item.Id}");
-            }
 
             Console.WriteLine("Info of students2");
             
@@ -60,11 +78,27 @@ namespace ListOfClass
                 x.Id = ids[i]; x.Name = names[i];
                 students2.Add(x);
             }
-            Student.findStudent(students2,11);
+            
+            var newStudent = new Student(11,"Sajid");
+
+            Console.WriteLine(Student.findStudent3(students2, newStudent)); 
+            // Calls ToString(), retturns null if not matched
+            
+            Student ifFound = Student.findStudent3(students2, newStudent);
+            if (ifFound != null)
+                Console.WriteLine($"Student found = Id :{ifFound.Id} , Name : {ifFound.Name}");
+            else
+                Console.WriteLine("Student not found");
+
+            //int idx = Student.findStudent2(students2, newStudent);
+            //if(idx>=0)
+            //    Console.WriteLine($"Student found = Id :{students2[idx].Id} , Name : {students2[idx].Name}");
+            //else
+            //    Console.WriteLine("Student not found");
+
             foreach (var item in students2)
-            {
                 Console.WriteLine($"Name: {item.Name}, Id: {item.Id}");
-            }
+
             var students3 = new List<Student>() { st[0],st[1] };
         }
     }

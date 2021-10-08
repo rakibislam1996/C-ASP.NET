@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "QdaaPWlkISHRUAkLKLS4cTCc37f9typljvBiqMNwdsLEY1KkM/5aSPXj8i+7/beC77FsdpE99F0fJmSE/ghHYw==",
+  "success": true,
+  "projectFilePath": "D:\\C#\\C-Sharp-ASP.NET\\ReferenceVsValue\\ReferenceVsValue\\ReferenceVsValue.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rakib\\.nuget\\packages\\baseline\\3.2.1\\baseline.3.2.1.nupkg.sha512"
+  ],
+  "logs": []
+}

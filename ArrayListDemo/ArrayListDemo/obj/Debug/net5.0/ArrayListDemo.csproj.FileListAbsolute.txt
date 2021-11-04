@@ -1,0 +1,15 @@
+D:\C#\C-Sharp-ASP.NET\ArrayListDemo\ArrayListDemo\bin\Debug\net5.0\ArrayListDemo.exe
+D:\C#\C-Sharp-ASP.NET\ArrayListDemo\ArrayListDemo\bin\Debug\net5.0\ArrayListDemo.deps.json
+D:\C#\C-Sharp-ASP.NET\ArrayListDemo\ArrayListDemo\bin\Debug\net5.0\ArrayListDemo.runtimeconfig.json
+D:\C#\C-Sharp-ASP.NET\ArrayListDemo\ArrayListDemo\bin\Debug\net5.0\ArrayListDemo.runtimeconfig.dev.json
+D:\C#\C-Sharp-ASP.NET\ArrayListDemo\ArrayListDemo\bin\Debug\net5.0\ArrayListDemo.dll
+D:\C#\C-Sharp-ASP.NET\ArrayListDemo\ArrayListDemo\bin\Debug\net5.0\ref\ArrayListDemo.dll
+D:\C#\C-Sharp-ASP.NET\ArrayListDemo\ArrayListDemo\bin\Debug\net5.0\ArrayListDemo.pdb
+D:\C#\C-Sharp-ASP.NET\ArrayListDemo\ArrayListDemo\obj\Debug\net5.0\ArrayListDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\C-Sharp-ASP.NET\ArrayListDemo\ArrayListDemo\obj\Debug\net5.0\ArrayListDemo.AssemblyInfoInputs.cache
+D:\C#\C-Sharp-ASP.NET\ArrayListDemo\ArrayListDemo\obj\Debug\net5.0\ArrayListDemo.AssemblyInfo.cs
+D:\C#\C-Sharp-ASP.NET\ArrayListDemo\ArrayListDemo\obj\Debug\net5.0\ArrayListDemo.csproj.CoreCompileInputs.cache
+D:\C#\C-Sharp-ASP.NET\ArrayListDemo\ArrayListDemo\obj\Debug\net5.0\ArrayListDemo.dll
+D:\C#\C-Sharp-ASP.NET\ArrayListDemo\ArrayListDemo\obj\Debug\net5.0\ref\ArrayListDemo.dll
+D:\C#\C-Sharp-ASP.NET\ArrayListDemo\ArrayListDemo\obj\Debug\net5.0\ArrayListDemo.pdb
+D:\C#\C-Sharp-ASP.NET\ArrayListDemo\ArrayListDemo\obj\Debug\net5.0\ArrayListDemo.genruntimeconfig.cache

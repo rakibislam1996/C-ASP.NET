@@ -30,6 +30,15 @@ namespace Constructor
             Student student = new Student(11608010, 30);
             Console.WriteLine(student.id);
             Console.WriteLine(student.age);
+
+            Person person1 = new Person
+            {
+                age = 25,
+                id = 101
+            };
+            Console.WriteLine(person1.age+" "+person1.id);
+
+
         }
     }
 }

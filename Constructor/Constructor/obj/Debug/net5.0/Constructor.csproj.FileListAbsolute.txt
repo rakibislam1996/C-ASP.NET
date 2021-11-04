@@ -13,3 +13,4 @@ D:\C#\C-Sharp-ASP.NET\Constructor\Constructor\obj\Debug\net5.0\Constructor.dll
 D:\C#\C-Sharp-ASP.NET\Constructor\Constructor\obj\Debug\net5.0\ref\Constructor.dll
 D:\C#\C-Sharp-ASP.NET\Constructor\Constructor\obj\Debug\net5.0\Constructor.pdb
 D:\C#\C-Sharp-ASP.NET\Constructor\Constructor\obj\Debug\net5.0\Constructor.genruntimeconfig.cache
+D:\C#\C-Sharp-ASP.NET\Constructor\Constructor\obj\Debug\net5.0\Constructor.csproj.AssemblyReference.cache

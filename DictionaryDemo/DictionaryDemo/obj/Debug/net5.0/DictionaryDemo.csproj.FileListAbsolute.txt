@@ -1,0 +1,15 @@
+D:\C#\C-Sharp-ASP.NET\DictionaryDemo\DictionaryDemo\bin\Debug\net5.0\DictionaryDemo.exe
+D:\C#\C-Sharp-ASP.NET\DictionaryDemo\DictionaryDemo\bin\Debug\net5.0\DictionaryDemo.deps.json
+D:\C#\C-Sharp-ASP.NET\DictionaryDemo\DictionaryDemo\bin\Debug\net5.0\DictionaryDemo.runtimeconfig.json
+D:\C#\C-Sharp-ASP.NET\DictionaryDemo\DictionaryDemo\bin\Debug\net5.0\DictionaryDemo.runtimeconfig.dev.json
+D:\C#\C-Sharp-ASP.NET\DictionaryDemo\DictionaryDemo\bin\Debug\net5.0\DictionaryDemo.dll
+D:\C#\C-Sharp-ASP.NET\DictionaryDemo\DictionaryDemo\bin\Debug\net5.0\ref\DictionaryDemo.dll
+D:\C#\C-Sharp-ASP.NET\DictionaryDemo\DictionaryDemo\bin\Debug\net5.0\DictionaryDemo.pdb
+D:\C#\C-Sharp-ASP.NET\DictionaryDemo\DictionaryDemo\obj\Debug\net5.0\DictionaryDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\C-Sharp-ASP.NET\DictionaryDemo\DictionaryDemo\obj\Debug\net5.0\DictionaryDemo.AssemblyInfoInputs.cache
+D:\C#\C-Sharp-ASP.NET\DictionaryDemo\DictionaryDemo\obj\Debug\net5.0\DictionaryDemo.AssemblyInfo.cs
+D:\C#\C-Sharp-ASP.NET\DictionaryDemo\DictionaryDemo\obj\Debug\net5.0\DictionaryDemo.csproj.CoreCompileInputs.cache
+D:\C#\C-Sharp-ASP.NET\DictionaryDemo\DictionaryDemo\obj\Debug\net5.0\DictionaryDemo.dll
+D:\C#\C-Sharp-ASP.NET\DictionaryDemo\DictionaryDemo\obj\Debug\net5.0\ref\DictionaryDemo.dll
+D:\C#\C-Sharp-ASP.NET\DictionaryDemo\DictionaryDemo\obj\Debug\net5.0\DictionaryDemo.pdb
+D:\C#\C-Sharp-ASP.NET\DictionaryDemo\DictionaryDemo\obj\Debug\net5.0\DictionaryDemo.genruntimeconfig.cache

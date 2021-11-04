@@ -1,0 +1,16 @@
+D:\C#\C-Sharp-ASP.NET\StackDemo\StackDemo\bin\Debug\net5.0\StackDemo.exe
+D:\C#\C-Sharp-ASP.NET\StackDemo\StackDemo\bin\Debug\net5.0\StackDemo.deps.json
+D:\C#\C-Sharp-ASP.NET\StackDemo\StackDemo\bin\Debug\net5.0\StackDemo.runtimeconfig.json
+D:\C#\C-Sharp-ASP.NET\StackDemo\StackDemo\bin\Debug\net5.0\StackDemo.runtimeconfig.dev.json
+D:\C#\C-Sharp-ASP.NET\StackDemo\StackDemo\bin\Debug\net5.0\StackDemo.dll
+D:\C#\C-Sharp-ASP.NET\StackDemo\StackDemo\bin\Debug\net5.0\ref\StackDemo.dll
+D:\C#\C-Sharp-ASP.NET\StackDemo\StackDemo\bin\Debug\net5.0\StackDemo.pdb
+D:\C#\C-Sharp-ASP.NET\StackDemo\StackDemo\obj\Debug\net5.0\StackDemo.csproj.AssemblyReference.cache
+D:\C#\C-Sharp-ASP.NET\StackDemo\StackDemo\obj\Debug\net5.0\StackDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\C-Sharp-ASP.NET\StackDemo\StackDemo\obj\Debug\net5.0\StackDemo.AssemblyInfoInputs.cache
+D:\C#\C-Sharp-ASP.NET\StackDemo\StackDemo\obj\Debug\net5.0\StackDemo.AssemblyInfo.cs
+D:\C#\C-Sharp-ASP.NET\StackDemo\StackDemo\obj\Debug\net5.0\StackDemo.csproj.CoreCompileInputs.cache
+D:\C#\C-Sharp-ASP.NET\StackDemo\StackDemo\obj\Debug\net5.0\StackDemo.dll
+D:\C#\C-Sharp-ASP.NET\StackDemo\StackDemo\obj\Debug\net5.0\ref\StackDemo.dll
+D:\C#\C-Sharp-ASP.NET\StackDemo\StackDemo\obj\Debug\net5.0\StackDemo.pdb
+D:\C#\C-Sharp-ASP.NET\StackDemo\StackDemo\obj\Debug\net5.0\StackDemo.genruntimeconfig.cache

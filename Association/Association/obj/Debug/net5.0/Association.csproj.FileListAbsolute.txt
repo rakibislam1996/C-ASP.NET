@@ -1,0 +1,16 @@
+D:\C#\C-Sharp-ASP.NET\Association\Association\bin\Debug\net5.0\Association.exe
+D:\C#\C-Sharp-ASP.NET\Association\Association\bin\Debug\net5.0\Association.deps.json
+D:\C#\C-Sharp-ASP.NET\Association\Association\bin\Debug\net5.0\Association.runtimeconfig.json
+D:\C#\C-Sharp-ASP.NET\Association\Association\bin\Debug\net5.0\Association.runtimeconfig.dev.json
+D:\C#\C-Sharp-ASP.NET\Association\Association\bin\Debug\net5.0\Association.dll
+D:\C#\C-Sharp-ASP.NET\Association\Association\bin\Debug\net5.0\ref\Association.dll
+D:\C#\C-Sharp-ASP.NET\Association\Association\bin\Debug\net5.0\Association.pdb
+D:\C#\C-Sharp-ASP.NET\Association\Association\obj\Debug\net5.0\Association.csproj.AssemblyReference.cache
+D:\C#\C-Sharp-ASP.NET\Association\Association\obj\Debug\net5.0\Association.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\C-Sharp-ASP.NET\Association\Association\obj\Debug\net5.0\Association.AssemblyInfoInputs.cache
+D:\C#\C-Sharp-ASP.NET\Association\Association\obj\Debug\net5.0\Association.AssemblyInfo.cs
+D:\C#\C-Sharp-ASP.NET\Association\Association\obj\Debug\net5.0\Association.csproj.CoreCompileInputs.cache
+D:\C#\C-Sharp-ASP.NET\Association\Association\obj\Debug\net5.0\Association.dll
+D:\C#\C-Sharp-ASP.NET\Association\Association\obj\Debug\net5.0\ref\Association.dll
+D:\C#\C-Sharp-ASP.NET\Association\Association\obj\Debug\net5.0\Association.pdb
+D:\C#\C-Sharp-ASP.NET\Association\Association\obj\Debug\net5.0\Association.genruntimeconfig.cache

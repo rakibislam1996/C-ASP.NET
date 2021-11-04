@@ -1,4 +1,9 @@
 ﻿using System;
+using System.Collections;
+using System.Collections.Generic;
+using System.Linq;
+using System.Threading.Tasks;
+
 namespace InputOutput
 {
     class Program
@@ -7,6 +12,12 @@ namespace InputOutput
         {
             //Console.WriteLine(int.MinValue);
             //Console.WriteLine(long.MaxValue);
+            
+            int stuNo = int.Parse("10" + '1');
+            Console.WriteLine($"x = : { stuNo }");
+
+            stuNo =  '4' + '5';
+            Console.WriteLine($"x = : { stuNo }");
 
             int a = 10;
             a = int.Parse(Console.ReadLine());

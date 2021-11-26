@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 
 namespace Constructor
 {
@@ -38,7 +39,13 @@ namespace Constructor
             };
             Console.WriteLine(person1.age+" "+person1.id);
 
-
+            List<Student> stuList = new List<Student>()
+            {
+                new Student(1,25),
+                new Student(2,26),
+                new Student{id = 3, age = 22 }
+            };
+            Console.WriteLine(stuList[0].id+" "+stuList[1].age);
         }
     }
 }

@@ -7,7 +7,7 @@ namespace Inheritance
         internal int w, h;
         public Polygon() 
         { 
-            //Console.WriteLine("Polygon Constructor"); 
+            Console.WriteLine("Polygon Constructor"); 
         }
         public Polygon(int w,int h)
         {
@@ -15,11 +15,11 @@ namespace Inheritance
             this.w = w;
             this.h = h;
         }
-        internal void valueOf()
+        public void valueOf()
         {
             Console.WriteLine("Width = {0} & Height = {1}",w,h);
         }
-        internal void Area()
+        public void Area()
         {
             Console.WriteLine("Area in polygon");
         }
@@ -28,7 +28,7 @@ namespace Inheritance
     {
         public Rectangle() 
         { 
-            //Console.WriteLine("Rectangle Constructor"); 
+            Console.WriteLine("Rectangle Constructor"); 
         }
         public Rectangle(int w, int h)
         {
@@ -36,7 +36,7 @@ namespace Inheritance
             this.w = w;
             this.h = h;
         }
-        internal new void Area()
+        public new void Area()
         {
             //valueOf();
             Console.WriteLine("Area of rectangle = {0}", w *h);
@@ -64,6 +64,9 @@ namespace Inheritance
     {
         static void Main(string[] args)
         {
+
+            Polygon re = new Rectangle();
+            re.Area();
             Rectangle rect = new Rectangle();
             Rectangle rect1 = new Rectangle(12,21);
             rect.w = 25;

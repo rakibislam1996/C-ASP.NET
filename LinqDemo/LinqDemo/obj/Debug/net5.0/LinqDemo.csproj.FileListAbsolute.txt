@@ -1,0 +1,16 @@
+D:\C#\C-Sharp-ASP.NET\LinqDemo\LinqDemo\bin\Debug\net5.0\LinqDemo.exe
+D:\C#\C-Sharp-ASP.NET\LinqDemo\LinqDemo\bin\Debug\net5.0\LinqDemo.deps.json
+D:\C#\C-Sharp-ASP.NET\LinqDemo\LinqDemo\bin\Debug\net5.0\LinqDemo.runtimeconfig.json
+D:\C#\C-Sharp-ASP.NET\LinqDemo\LinqDemo\bin\Debug\net5.0\LinqDemo.runtimeconfig.dev.json
+D:\C#\C-Sharp-ASP.NET\LinqDemo\LinqDemo\bin\Debug\net5.0\LinqDemo.dll
+D:\C#\C-Sharp-ASP.NET\LinqDemo\LinqDemo\bin\Debug\net5.0\ref\LinqDemo.dll
+D:\C#\C-Sharp-ASP.NET\LinqDemo\LinqDemo\bin\Debug\net5.0\LinqDemo.pdb
+D:\C#\C-Sharp-ASP.NET\LinqDemo\LinqDemo\obj\Debug\net5.0\LinqDemo.csproj.AssemblyReference.cache
+D:\C#\C-Sharp-ASP.NET\LinqDemo\LinqDemo\obj\Debug\net5.0\LinqDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\C-Sharp-ASP.NET\LinqDemo\LinqDemo\obj\Debug\net5.0\LinqDemo.AssemblyInfoInputs.cache
+D:\C#\C-Sharp-ASP.NET\LinqDemo\LinqDemo\obj\Debug\net5.0\LinqDemo.AssemblyInfo.cs
+D:\C#\C-Sharp-ASP.NET\LinqDemo\LinqDemo\obj\Debug\net5.0\LinqDemo.csproj.CoreCompileInputs.cache
+D:\C#\C-Sharp-ASP.NET\LinqDemo\LinqDemo\obj\Debug\net5.0\LinqDemo.dll
+D:\C#\C-Sharp-ASP.NET\LinqDemo\LinqDemo\obj\Debug\net5.0\ref\LinqDemo.dll
+D:\C#\C-Sharp-ASP.NET\LinqDemo\LinqDemo\obj\Debug\net5.0\LinqDemo.pdb
+D:\C#\C-Sharp-ASP.NET\LinqDemo\LinqDemo\obj\Debug\net5.0\LinqDemo.genruntimeconfig.cache

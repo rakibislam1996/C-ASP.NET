@@ -1,0 +1,16 @@
+D:\C#\C-Sharp-ASP.NET\OperatorOverloading\OperatorOverloading\bin\Debug\net5.0\OperatorOverloading.exe
+D:\C#\C-Sharp-ASP.NET\OperatorOverloading\OperatorOverloading\bin\Debug\net5.0\OperatorOverloading.deps.json
+D:\C#\C-Sharp-ASP.NET\OperatorOverloading\OperatorOverloading\bin\Debug\net5.0\OperatorOverloading.runtimeconfig.json
+D:\C#\C-Sharp-ASP.NET\OperatorOverloading\OperatorOverloading\bin\Debug\net5.0\OperatorOverloading.runtimeconfig.dev.json
+D:\C#\C-Sharp-ASP.NET\OperatorOverloading\OperatorOverloading\bin\Debug\net5.0\OperatorOverloading.dll
+D:\C#\C-Sharp-ASP.NET\OperatorOverloading\OperatorOverloading\bin\Debug\net5.0\ref\OperatorOverloading.dll
+D:\C#\C-Sharp-ASP.NET\OperatorOverloading\OperatorOverloading\bin\Debug\net5.0\OperatorOverloading.pdb
+D:\C#\C-Sharp-ASP.NET\OperatorOverloading\OperatorOverloading\obj\Debug\net5.0\OperatorOverloading.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\C-Sharp-ASP.NET\OperatorOverloading\OperatorOverloading\obj\Debug\net5.0\OperatorOverloading.AssemblyInfoInputs.cache
+D:\C#\C-Sharp-ASP.NET\OperatorOverloading\OperatorOverloading\obj\Debug\net5.0\OperatorOverloading.AssemblyInfo.cs
+D:\C#\C-Sharp-ASP.NET\OperatorOverloading\OperatorOverloading\obj\Debug\net5.0\OperatorOverloading.csproj.CoreCompileInputs.cache
+D:\C#\C-Sharp-ASP.NET\OperatorOverloading\OperatorOverloading\obj\Debug\net5.0\OperatorOverloading.dll
+D:\C#\C-Sharp-ASP.NET\OperatorOverloading\OperatorOverloading\obj\Debug\net5.0\ref\OperatorOverloading.dll
+D:\C#\C-Sharp-ASP.NET\OperatorOverloading\OperatorOverloading\obj\Debug\net5.0\OperatorOverloading.pdb
+D:\C#\C-Sharp-ASP.NET\OperatorOverloading\OperatorOverloading\obj\Debug\net5.0\OperatorOverloading.genruntimeconfig.cache
+D:\C#\C-Sharp-ASP.NET\OperatorOverloading\OperatorOverloading\obj\Debug\net5.0\OperatorOverloading.csproj.AssemblyReference.cache

@@ -1,0 +1,15 @@
+D:\C#\C-Sharp-ASP.NET\FunctionActionLambda\FunctionActionLambda\bin\Debug\net5.0\FunctionActionLambda.exe
+D:\C#\C-Sharp-ASP.NET\FunctionActionLambda\FunctionActionLambda\bin\Debug\net5.0\FunctionActionLambda.deps.json
+D:\C#\C-Sharp-ASP.NET\FunctionActionLambda\FunctionActionLambda\bin\Debug\net5.0\FunctionActionLambda.runtimeconfig.json
+D:\C#\C-Sharp-ASP.NET\FunctionActionLambda\FunctionActionLambda\bin\Debug\net5.0\FunctionActionLambda.runtimeconfig.dev.json
+D:\C#\C-Sharp-ASP.NET\FunctionActionLambda\FunctionActionLambda\bin\Debug\net5.0\FunctionActionLambda.dll
+D:\C#\C-Sharp-ASP.NET\FunctionActionLambda\FunctionActionLambda\bin\Debug\net5.0\ref\FunctionActionLambda.dll
+D:\C#\C-Sharp-ASP.NET\FunctionActionLambda\FunctionActionLambda\bin\Debug\net5.0\FunctionActionLambda.pdb
+D:\C#\C-Sharp-ASP.NET\FunctionActionLambda\FunctionActionLambda\obj\Debug\net5.0\FunctionActionLambda.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\C-Sharp-ASP.NET\FunctionActionLambda\FunctionActionLambda\obj\Debug\net5.0\FunctionActionLambda.AssemblyInfoInputs.cache
+D:\C#\C-Sharp-ASP.NET\FunctionActionLambda\FunctionActionLambda\obj\Debug\net5.0\FunctionActionLambda.AssemblyInfo.cs
+D:\C#\C-Sharp-ASP.NET\FunctionActionLambda\FunctionActionLambda\obj\Debug\net5.0\FunctionActionLambda.csproj.CoreCompileInputs.cache
+D:\C#\C-Sharp-ASP.NET\FunctionActionLambda\FunctionActionLambda\obj\Debug\net5.0\FunctionActionLambda.dll
+D:\C#\C-Sharp-ASP.NET\FunctionActionLambda\FunctionActionLambda\obj\Debug\net5.0\ref\FunctionActionLambda.dll
+D:\C#\C-Sharp-ASP.NET\FunctionActionLambda\FunctionActionLambda\obj\Debug\net5.0\FunctionActionLambda.pdb
+D:\C#\C-Sharp-ASP.NET\FunctionActionLambda\FunctionActionLambda\obj\Debug\net5.0\FunctionActionLambda.genruntimeconfig.cache

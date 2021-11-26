@@ -1,0 +1,16 @@
+D:\C#\C-Sharp-ASP.NET\LambdaExpression\LambdaExpression\bin\Debug\net5.0\LambdaExpression.exe
+D:\C#\C-Sharp-ASP.NET\LambdaExpression\LambdaExpression\bin\Debug\net5.0\LambdaExpression.deps.json
+D:\C#\C-Sharp-ASP.NET\LambdaExpression\LambdaExpression\bin\Debug\net5.0\LambdaExpression.runtimeconfig.json
+D:\C#\C-Sharp-ASP.NET\LambdaExpression\LambdaExpression\bin\Debug\net5.0\LambdaExpression.runtimeconfig.dev.json
+D:\C#\C-Sharp-ASP.NET\LambdaExpression\LambdaExpression\bin\Debug\net5.0\LambdaExpression.dll
+D:\C#\C-Sharp-ASP.NET\LambdaExpression\LambdaExpression\bin\Debug\net5.0\ref\LambdaExpression.dll
+D:\C#\C-Sharp-ASP.NET\LambdaExpression\LambdaExpression\bin\Debug\net5.0\LambdaExpression.pdb
+D:\C#\C-Sharp-ASP.NET\LambdaExpression\LambdaExpression\obj\Debug\net5.0\LambdaExpression.csproj.AssemblyReference.cache
+D:\C#\C-Sharp-ASP.NET\LambdaExpression\LambdaExpression\obj\Debug\net5.0\LambdaExpression.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\C-Sharp-ASP.NET\LambdaExpression\LambdaExpression\obj\Debug\net5.0\LambdaExpression.AssemblyInfoInputs.cache
+D:\C#\C-Sharp-ASP.NET\LambdaExpression\LambdaExpression\obj\Debug\net5.0\LambdaExpression.AssemblyInfo.cs
+D:\C#\C-Sharp-ASP.NET\LambdaExpression\LambdaExpression\obj\Debug\net5.0\LambdaExpression.csproj.CoreCompileInputs.cache
+D:\C#\C-Sharp-ASP.NET\LambdaExpression\LambdaExpression\obj\Debug\net5.0\LambdaExpression.dll
+D:\C#\C-Sharp-ASP.NET\LambdaExpression\LambdaExpression\obj\Debug\net5.0\ref\LambdaExpression.dll
+D:\C#\C-Sharp-ASP.NET\LambdaExpression\LambdaExpression\obj\Debug\net5.0\LambdaExpression.pdb
+D:\C#\C-Sharp-ASP.NET\LambdaExpression\LambdaExpression\obj\Debug\net5.0\LambdaExpression.genruntimeconfig.cache

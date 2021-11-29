@@ -48,7 +48,8 @@ namespace Strings
             Console.WriteLine(name.IndexOf('k'));
             Console.WriteLine(name.IndexOf("ki"));
             name = "rakikib";
-            Console.WriteLine(name.IndexOf("ki",2));
+            Console.WriteLine(name.IndexOf("ki",3));
+            Console.WriteLine(name.LastIndexOf("ki"));
             name = "  fizz  ";
             Console.WriteLine(name.Trim());
             Console.WriteLine(name2.Remove(2));  // removes characters from index k

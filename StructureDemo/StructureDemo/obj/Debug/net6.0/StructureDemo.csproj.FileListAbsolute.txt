@@ -1,0 +1,15 @@
+D:\C#\C-Sharp-ASP.NET\StructureDemo\StructureDemo\bin\Debug\net6.0\StructureDemo.exe
+D:\C#\C-Sharp-ASP.NET\StructureDemo\StructureDemo\bin\Debug\net6.0\StructureDemo.deps.json
+D:\C#\C-Sharp-ASP.NET\StructureDemo\StructureDemo\bin\Debug\net6.0\StructureDemo.runtimeconfig.json
+D:\C#\C-Sharp-ASP.NET\StructureDemo\StructureDemo\bin\Debug\net6.0\StructureDemo.dll
+D:\C#\C-Sharp-ASP.NET\StructureDemo\StructureDemo\bin\Debug\net6.0\ref\StructureDemo.dll
+D:\C#\C-Sharp-ASP.NET\StructureDemo\StructureDemo\bin\Debug\net6.0\StructureDemo.pdb
+D:\C#\C-Sharp-ASP.NET\StructureDemo\StructureDemo\obj\Debug\net6.0\StructureDemo.csproj.AssemblyReference.cache
+D:\C#\C-Sharp-ASP.NET\StructureDemo\StructureDemo\obj\Debug\net6.0\StructureDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\C-Sharp-ASP.NET\StructureDemo\StructureDemo\obj\Debug\net6.0\StructureDemo.AssemblyInfoInputs.cache
+D:\C#\C-Sharp-ASP.NET\StructureDemo\StructureDemo\obj\Debug\net6.0\StructureDemo.AssemblyInfo.cs
+D:\C#\C-Sharp-ASP.NET\StructureDemo\StructureDemo\obj\Debug\net6.0\StructureDemo.csproj.CoreCompileInputs.cache
+D:\C#\C-Sharp-ASP.NET\StructureDemo\StructureDemo\obj\Debug\net6.0\StructureDemo.dll
+D:\C#\C-Sharp-ASP.NET\StructureDemo\StructureDemo\obj\Debug\net6.0\ref\StructureDemo.dll
+D:\C#\C-Sharp-ASP.NET\StructureDemo\StructureDemo\obj\Debug\net6.0\StructureDemo.pdb
+D:\C#\C-Sharp-ASP.NET\StructureDemo\StructureDemo\obj\Debug\net6.0\StructureDemo.genruntimeconfig.cache

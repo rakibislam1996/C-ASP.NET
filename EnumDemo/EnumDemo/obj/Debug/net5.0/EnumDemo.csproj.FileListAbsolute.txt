@@ -1,0 +1,16 @@
+D:\C#\C-Sharp-ASP.NET\EnumDemo\EnumDemo\bin\Debug\net5.0\EnumDemo.exe
+D:\C#\C-Sharp-ASP.NET\EnumDemo\EnumDemo\bin\Debug\net5.0\EnumDemo.deps.json
+D:\C#\C-Sharp-ASP.NET\EnumDemo\EnumDemo\bin\Debug\net5.0\EnumDemo.runtimeconfig.json
+D:\C#\C-Sharp-ASP.NET\EnumDemo\EnumDemo\bin\Debug\net5.0\EnumDemo.runtimeconfig.dev.json
+D:\C#\C-Sharp-ASP.NET\EnumDemo\EnumDemo\bin\Debug\net5.0\EnumDemo.dll
+D:\C#\C-Sharp-ASP.NET\EnumDemo\EnumDemo\bin\Debug\net5.0\ref\EnumDemo.dll
+D:\C#\C-Sharp-ASP.NET\EnumDemo\EnumDemo\bin\Debug\net5.0\EnumDemo.pdb
+D:\C#\C-Sharp-ASP.NET\EnumDemo\EnumDemo\obj\Debug\net5.0\EnumDemo.csproj.AssemblyReference.cache
+D:\C#\C-Sharp-ASP.NET\EnumDemo\EnumDemo\obj\Debug\net5.0\EnumDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\C-Sharp-ASP.NET\EnumDemo\EnumDemo\obj\Debug\net5.0\EnumDemo.AssemblyInfoInputs.cache
+D:\C#\C-Sharp-ASP.NET\EnumDemo\EnumDemo\obj\Debug\net5.0\EnumDemo.AssemblyInfo.cs
+D:\C#\C-Sharp-ASP.NET\EnumDemo\EnumDemo\obj\Debug\net5.0\EnumDemo.csproj.CoreCompileInputs.cache
+D:\C#\C-Sharp-ASP.NET\EnumDemo\EnumDemo\obj\Debug\net5.0\EnumDemo.dll
+D:\C#\C-Sharp-ASP.NET\EnumDemo\EnumDemo\obj\Debug\net5.0\ref\EnumDemo.dll
+D:\C#\C-Sharp-ASP.NET\EnumDemo\EnumDemo\obj\Debug\net5.0\EnumDemo.pdb
+D:\C#\C-Sharp-ASP.NET\EnumDemo\EnumDemo\obj\Debug\net5.0\EnumDemo.genruntimeconfig.cache

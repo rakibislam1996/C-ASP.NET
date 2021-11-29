@@ -1,0 +1,14 @@
+D:\C#\C-Sharp-ASP.NET\PrivateConstructor\PrivateConstructor\bin\Debug\net6.0\PrivateConstructor.exe
+D:\C#\C-Sharp-ASP.NET\PrivateConstructor\PrivateConstructor\bin\Debug\net6.0\PrivateConstructor.deps.json
+D:\C#\C-Sharp-ASP.NET\PrivateConstructor\PrivateConstructor\bin\Debug\net6.0\PrivateConstructor.runtimeconfig.json
+D:\C#\C-Sharp-ASP.NET\PrivateConstructor\PrivateConstructor\bin\Debug\net6.0\PrivateConstructor.dll
+D:\C#\C-Sharp-ASP.NET\PrivateConstructor\PrivateConstructor\bin\Debug\net6.0\ref\PrivateConstructor.dll
+D:\C#\C-Sharp-ASP.NET\PrivateConstructor\PrivateConstructor\bin\Debug\net6.0\PrivateConstructor.pdb
+D:\C#\C-Sharp-ASP.NET\PrivateConstructor\PrivateConstructor\obj\Debug\net6.0\PrivateConstructor.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\C-Sharp-ASP.NET\PrivateConstructor\PrivateConstructor\obj\Debug\net6.0\PrivateConstructor.AssemblyInfoInputs.cache
+D:\C#\C-Sharp-ASP.NET\PrivateConstructor\PrivateConstructor\obj\Debug\net6.0\PrivateConstructor.AssemblyInfo.cs
+D:\C#\C-Sharp-ASP.NET\PrivateConstructor\PrivateConstructor\obj\Debug\net6.0\PrivateConstructor.csproj.CoreCompileInputs.cache
+D:\C#\C-Sharp-ASP.NET\PrivateConstructor\PrivateConstructor\obj\Debug\net6.0\PrivateConstructor.dll
+D:\C#\C-Sharp-ASP.NET\PrivateConstructor\PrivateConstructor\obj\Debug\net6.0\ref\PrivateConstructor.dll
+D:\C#\C-Sharp-ASP.NET\PrivateConstructor\PrivateConstructor\obj\Debug\net6.0\PrivateConstructor.pdb
+D:\C#\C-Sharp-ASP.NET\PrivateConstructor\PrivateConstructor\obj\Debug\net6.0\PrivateConstructor.genruntimeconfig.cache

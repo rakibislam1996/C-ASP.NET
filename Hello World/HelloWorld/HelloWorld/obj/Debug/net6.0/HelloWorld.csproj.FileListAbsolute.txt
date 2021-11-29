@@ -1,0 +1,14 @@
+D:\C#\C-Sharp-ASP.NET\Hello World\HelloWorld\HelloWorld\bin\Debug\net6.0\HelloWorld.exe
+D:\C#\C-Sharp-ASP.NET\Hello World\HelloWorld\HelloWorld\bin\Debug\net6.0\HelloWorld.deps.json
+D:\C#\C-Sharp-ASP.NET\Hello World\HelloWorld\HelloWorld\bin\Debug\net6.0\HelloWorld.runtimeconfig.json
+D:\C#\C-Sharp-ASP.NET\Hello World\HelloWorld\HelloWorld\bin\Debug\net6.0\HelloWorld.dll
+D:\C#\C-Sharp-ASP.NET\Hello World\HelloWorld\HelloWorld\bin\Debug\net6.0\ref\HelloWorld.dll
+D:\C#\C-Sharp-ASP.NET\Hello World\HelloWorld\HelloWorld\bin\Debug\net6.0\HelloWorld.pdb
+D:\C#\C-Sharp-ASP.NET\Hello World\HelloWorld\HelloWorld\obj\Debug\net6.0\HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\C-Sharp-ASP.NET\Hello World\HelloWorld\HelloWorld\obj\Debug\net6.0\HelloWorld.AssemblyInfoInputs.cache
+D:\C#\C-Sharp-ASP.NET\Hello World\HelloWorld\HelloWorld\obj\Debug\net6.0\HelloWorld.AssemblyInfo.cs
+D:\C#\C-Sharp-ASP.NET\Hello World\HelloWorld\HelloWorld\obj\Debug\net6.0\HelloWorld.csproj.CoreCompileInputs.cache
+D:\C#\C-Sharp-ASP.NET\Hello World\HelloWorld\HelloWorld\obj\Debug\net6.0\HelloWorld.dll
+D:\C#\C-Sharp-ASP.NET\Hello World\HelloWorld\HelloWorld\obj\Debug\net6.0\ref\HelloWorld.dll
+D:\C#\C-Sharp-ASP.NET\Hello World\HelloWorld\HelloWorld\obj\Debug\net6.0\HelloWorld.pdb
+D:\C#\C-Sharp-ASP.NET\Hello World\HelloWorld\HelloWorld\obj\Debug\net6.0\HelloWorld.genruntimeconfig.cache

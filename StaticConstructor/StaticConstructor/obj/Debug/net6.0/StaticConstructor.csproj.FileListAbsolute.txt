@@ -1,0 +1,15 @@
+D:\C#\C-Sharp-ASP.NET\StaticConstructor\StaticConstructor\bin\Debug\net6.0\StaticConstructor.exe
+D:\C#\C-Sharp-ASP.NET\StaticConstructor\StaticConstructor\bin\Debug\net6.0\StaticConstructor.deps.json
+D:\C#\C-Sharp-ASP.NET\StaticConstructor\StaticConstructor\bin\Debug\net6.0\StaticConstructor.runtimeconfig.json
+D:\C#\C-Sharp-ASP.NET\StaticConstructor\StaticConstructor\bin\Debug\net6.0\StaticConstructor.dll
+D:\C#\C-Sharp-ASP.NET\StaticConstructor\StaticConstructor\bin\Debug\net6.0\ref\StaticConstructor.dll
+D:\C#\C-Sharp-ASP.NET\StaticConstructor\StaticConstructor\bin\Debug\net6.0\StaticConstructor.pdb
+D:\C#\C-Sharp-ASP.NET\StaticConstructor\StaticConstructor\obj\Debug\net6.0\StaticConstructor.csproj.AssemblyReference.cache
+D:\C#\C-Sharp-ASP.NET\StaticConstructor\StaticConstructor\obj\Debug\net6.0\StaticConstructor.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\C-Sharp-ASP.NET\StaticConstructor\StaticConstructor\obj\Debug\net6.0\StaticConstructor.AssemblyInfoInputs.cache
+D:\C#\C-Sharp-ASP.NET\StaticConstructor\StaticConstructor\obj\Debug\net6.0\StaticConstructor.AssemblyInfo.cs
+D:\C#\C-Sharp-ASP.NET\StaticConstructor\StaticConstructor\obj\Debug\net6.0\StaticConstructor.csproj.CoreCompileInputs.cache
+D:\C#\C-Sharp-ASP.NET\StaticConstructor\StaticConstructor\obj\Debug\net6.0\StaticConstructor.dll
+D:\C#\C-Sharp-ASP.NET\StaticConstructor\StaticConstructor\obj\Debug\net6.0\ref\StaticConstructor.dll
+D:\C#\C-Sharp-ASP.NET\StaticConstructor\StaticConstructor\obj\Debug\net6.0\StaticConstructor.pdb
+D:\C#\C-Sharp-ASP.NET\StaticConstructor\StaticConstructor\obj\Debug\net6.0\StaticConstructor.genruntimeconfig.cache

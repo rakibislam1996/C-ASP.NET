@@ -34,7 +34,8 @@ namespace HashaTableDemo
             Console.WriteLine("\nValue of an key: " + student["Jinia"]);  // [key]
 
             student.Add(15, "Sajid");
-            student.Remove(13);
+            Console.WriteLine("\nNumber of entries: " + student.Count);
+            student.Remove("Sakib");
             Console.WriteLine("\nNumber of entries: " + student.Count);
 
 

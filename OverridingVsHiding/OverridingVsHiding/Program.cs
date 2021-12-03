@@ -4,7 +4,7 @@ namespace OverridingVsHiding
 {
     class Drawing
     {
-        public  void Draw()
+        public void Draw()
         {
             Console.WriteLine("This is for draw");
         }
@@ -13,6 +13,7 @@ namespace OverridingVsHiding
     {
         public new void Draw()   // new for method hiding of base class's method
         {
+            //base.Draw();
             Console.WriteLine("This is a line");
         }
     }

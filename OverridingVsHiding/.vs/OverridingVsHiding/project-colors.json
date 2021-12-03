@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "2d43bb97-474e-40bb-b794-918f6f1175cc": {
+      "ProjectGuid": "2d43bb97-474e-40bb-b794-918f6f1175cc",
+      "DisplayName": "OverridingVsHiding",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

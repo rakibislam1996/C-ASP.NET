@@ -1,0 +1,15 @@
+D:\C#\C-Sharp-ASP.NET\AccessModifiers\AccessModifiers\bin\Debug\net6.0\AccessModifiers.exe
+D:\C#\C-Sharp-ASP.NET\AccessModifiers\AccessModifiers\bin\Debug\net6.0\AccessModifiers.deps.json
+D:\C#\C-Sharp-ASP.NET\AccessModifiers\AccessModifiers\bin\Debug\net6.0\AccessModifiers.runtimeconfig.json
+D:\C#\C-Sharp-ASP.NET\AccessModifiers\AccessModifiers\bin\Debug\net6.0\AccessModifiers.dll
+D:\C#\C-Sharp-ASP.NET\AccessModifiers\AccessModifiers\bin\Debug\net6.0\ref\AccessModifiers.dll
+D:\C#\C-Sharp-ASP.NET\AccessModifiers\AccessModifiers\bin\Debug\net6.0\AccessModifiers.pdb
+D:\C#\C-Sharp-ASP.NET\AccessModifiers\AccessModifiers\obj\Debug\net6.0\AccessModifiers.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\C-Sharp-ASP.NET\AccessModifiers\AccessModifiers\obj\Debug\net6.0\AccessModifiers.AssemblyInfoInputs.cache
+D:\C#\C-Sharp-ASP.NET\AccessModifiers\AccessModifiers\obj\Debug\net6.0\AccessModifiers.AssemblyInfo.cs
+D:\C#\C-Sharp-ASP.NET\AccessModifiers\AccessModifiers\obj\Debug\net6.0\AccessModifiers.csproj.CoreCompileInputs.cache
+D:\C#\C-Sharp-ASP.NET\AccessModifiers\AccessModifiers\obj\Debug\net6.0\AccessModifiers.dll
+D:\C#\C-Sharp-ASP.NET\AccessModifiers\AccessModifiers\obj\Debug\net6.0\ref\AccessModifiers.dll
+D:\C#\C-Sharp-ASP.NET\AccessModifiers\AccessModifiers\obj\Debug\net6.0\AccessModifiers.pdb
+D:\C#\C-Sharp-ASP.NET\AccessModifiers\AccessModifiers\obj\Debug\net6.0\AccessModifiers.genruntimeconfig.cache
+D:\C#\C-Sharp-ASP.NET\AccessModifiers\AccessModifiers\obj\Debug\net6.0\AccessModifiers.csproj.AssemblyReference.cache

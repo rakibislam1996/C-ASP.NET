@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "3270fdc6-8943-4fb8-bf7b-b60ffef7304c": {
+      "ProjectGuid": "3270fdc6-8943-4fb8-bf7b-b60ffef7304c",
+      "DisplayName": "MethodOverloading",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

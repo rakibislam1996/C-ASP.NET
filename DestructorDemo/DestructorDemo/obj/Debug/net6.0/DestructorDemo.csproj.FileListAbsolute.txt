@@ -1,0 +1,15 @@
+D:\C#\C-Sharp-ASP.NET\DestructorDemo\DestructorDemo\bin\Debug\net6.0\DestructorDemo.exe
+D:\C#\C-Sharp-ASP.NET\DestructorDemo\DestructorDemo\bin\Debug\net6.0\DestructorDemo.deps.json
+D:\C#\C-Sharp-ASP.NET\DestructorDemo\DestructorDemo\bin\Debug\net6.0\DestructorDemo.runtimeconfig.json
+D:\C#\C-Sharp-ASP.NET\DestructorDemo\DestructorDemo\bin\Debug\net6.0\DestructorDemo.dll
+D:\C#\C-Sharp-ASP.NET\DestructorDemo\DestructorDemo\bin\Debug\net6.0\ref\DestructorDemo.dll
+D:\C#\C-Sharp-ASP.NET\DestructorDemo\DestructorDemo\bin\Debug\net6.0\DestructorDemo.pdb
+D:\C#\C-Sharp-ASP.NET\DestructorDemo\DestructorDemo\obj\Debug\net6.0\DestructorDemo.csproj.AssemblyReference.cache
+D:\C#\C-Sharp-ASP.NET\DestructorDemo\DestructorDemo\obj\Debug\net6.0\DestructorDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\C-Sharp-ASP.NET\DestructorDemo\DestructorDemo\obj\Debug\net6.0\DestructorDemo.AssemblyInfoInputs.cache
+D:\C#\C-Sharp-ASP.NET\DestructorDemo\DestructorDemo\obj\Debug\net6.0\DestructorDemo.AssemblyInfo.cs
+D:\C#\C-Sharp-ASP.NET\DestructorDemo\DestructorDemo\obj\Debug\net6.0\DestructorDemo.csproj.CoreCompileInputs.cache
+D:\C#\C-Sharp-ASP.NET\DestructorDemo\DestructorDemo\obj\Debug\net6.0\DestructorDemo.dll
+D:\C#\C-Sharp-ASP.NET\DestructorDemo\DestructorDemo\obj\Debug\net6.0\ref\DestructorDemo.dll
+D:\C#\C-Sharp-ASP.NET\DestructorDemo\DestructorDemo\obj\Debug\net6.0\DestructorDemo.pdb
+D:\C#\C-Sharp-ASP.NET\DestructorDemo\DestructorDemo\obj\Debug\net6.0\DestructorDemo.genruntimeconfig.cache

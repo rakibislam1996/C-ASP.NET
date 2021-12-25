@@ -30,9 +30,6 @@ namespace Delegates
             AreaDelegate del1 = new AreaDelegate(Triangle.Height); // If the method is declared as static
             int height = del1(area, 20);
             Console.WriteLine($"Height of triangle : {height}");
-
-
-
         }
     }
 }

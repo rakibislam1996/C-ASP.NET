@@ -31,8 +31,10 @@ namespace QueueDemo
             }
             Console.WriteLine("Number of elements: " + qu.Count);
 
-            Console.WriteLine("Top element: " + qu.Peek()); 
-
+            Console.WriteLine("Top element: " + qu.Peek());
+            Console.WriteLine(qu.Any());
+            qu.Clear();
+            Console.WriteLine(qu.Any());
 
         }
     }

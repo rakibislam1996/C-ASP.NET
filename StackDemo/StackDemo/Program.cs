@@ -34,6 +34,9 @@ namespace StackDemo
             
             foreach (var item in st)
                 Console.WriteLine(item);
+            Console.WriteLine(st.Any());
+            st.Clear();
+            Console.WriteLine(st.Any());
         }
     }
 }

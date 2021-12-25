@@ -1,0 +1,15 @@
+D:\C#\C-Sharp-ASP.NET\QueueDemo\QueueDemo\bin\Debug\net6.0\QueueDemo.exe
+D:\C#\C-Sharp-ASP.NET\QueueDemo\QueueDemo\bin\Debug\net6.0\QueueDemo.deps.json
+D:\C#\C-Sharp-ASP.NET\QueueDemo\QueueDemo\bin\Debug\net6.0\QueueDemo.runtimeconfig.json
+D:\C#\C-Sharp-ASP.NET\QueueDemo\QueueDemo\bin\Debug\net6.0\QueueDemo.dll
+D:\C#\C-Sharp-ASP.NET\QueueDemo\QueueDemo\bin\Debug\net6.0\ref\QueueDemo.dll
+D:\C#\C-Sharp-ASP.NET\QueueDemo\QueueDemo\bin\Debug\net6.0\QueueDemo.pdb
+D:\C#\C-Sharp-ASP.NET\QueueDemo\QueueDemo\obj\Debug\net6.0\QueueDemo.csproj.AssemblyReference.cache
+D:\C#\C-Sharp-ASP.NET\QueueDemo\QueueDemo\obj\Debug\net6.0\QueueDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\C-Sharp-ASP.NET\QueueDemo\QueueDemo\obj\Debug\net6.0\QueueDemo.AssemblyInfoInputs.cache
+D:\C#\C-Sharp-ASP.NET\QueueDemo\QueueDemo\obj\Debug\net6.0\QueueDemo.AssemblyInfo.cs
+D:\C#\C-Sharp-ASP.NET\QueueDemo\QueueDemo\obj\Debug\net6.0\QueueDemo.csproj.CoreCompileInputs.cache
+D:\C#\C-Sharp-ASP.NET\QueueDemo\QueueDemo\obj\Debug\net6.0\QueueDemo.dll
+D:\C#\C-Sharp-ASP.NET\QueueDemo\QueueDemo\obj\Debug\net6.0\ref\QueueDemo.dll
+D:\C#\C-Sharp-ASP.NET\QueueDemo\QueueDemo\obj\Debug\net6.0\QueueDemo.pdb
+D:\C#\C-Sharp-ASP.NET\QueueDemo\QueueDemo\obj\Debug\net6.0\QueueDemo.genruntimeconfig.cache

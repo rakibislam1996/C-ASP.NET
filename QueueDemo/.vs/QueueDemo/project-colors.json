@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "bfc17a7e-8a09-4d8a-bd1f-d7bfd20ad9d7": {
+      "ProjectGuid": "bfc17a7e-8a09-4d8a-bd1f-d7bfd20ad9d7",
+      "DisplayName": "QueueDemo",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

@@ -1,0 +1,15 @@
+D:\C#\C-Sharp-ASP.NET\Delegates\ActionDelegates\bin\Debug\net5.0\ActionDelegates.exe
+D:\C#\C-Sharp-ASP.NET\Delegates\ActionDelegates\bin\Debug\net5.0\ActionDelegates.deps.json
+D:\C#\C-Sharp-ASP.NET\Delegates\ActionDelegates\bin\Debug\net5.0\ActionDelegates.runtimeconfig.json
+D:\C#\C-Sharp-ASP.NET\Delegates\ActionDelegates\bin\Debug\net5.0\ActionDelegates.runtimeconfig.dev.json
+D:\C#\C-Sharp-ASP.NET\Delegates\ActionDelegates\bin\Debug\net5.0\ActionDelegates.dll
+D:\C#\C-Sharp-ASP.NET\Delegates\ActionDelegates\bin\Debug\net5.0\ref\ActionDelegates.dll
+D:\C#\C-Sharp-ASP.NET\Delegates\ActionDelegates\bin\Debug\net5.0\ActionDelegates.pdb
+D:\C#\C-Sharp-ASP.NET\Delegates\ActionDelegates\obj\Debug\net5.0\ActionDelegates.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\C-Sharp-ASP.NET\Delegates\ActionDelegates\obj\Debug\net5.0\ActionDelegates.AssemblyInfoInputs.cache
+D:\C#\C-Sharp-ASP.NET\Delegates\ActionDelegates\obj\Debug\net5.0\ActionDelegates.AssemblyInfo.cs
+D:\C#\C-Sharp-ASP.NET\Delegates\ActionDelegates\obj\Debug\net5.0\ActionDelegates.csproj.CoreCompileInputs.cache
+D:\C#\C-Sharp-ASP.NET\Delegates\ActionDelegates\obj\Debug\net5.0\ActionDelegates.dll
+D:\C#\C-Sharp-ASP.NET\Delegates\ActionDelegates\obj\Debug\net5.0\ref\ActionDelegates.dll
+D:\C#\C-Sharp-ASP.NET\Delegates\ActionDelegates\obj\Debug\net5.0\ActionDelegates.pdb
+D:\C#\C-Sharp-ASP.NET\Delegates\ActionDelegates\obj\Debug\net5.0\ActionDelegates.genruntimeconfig.cache

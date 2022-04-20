@@ -1,0 +1,16 @@
+D:\C#\C-Sharp-ASP.NET\GenericsDemo\GenericsDemo\bin\Debug\net5.0\GenericsDemo.exe
+D:\C#\C-Sharp-ASP.NET\GenericsDemo\GenericsDemo\bin\Debug\net5.0\GenericsDemo.deps.json
+D:\C#\C-Sharp-ASP.NET\GenericsDemo\GenericsDemo\bin\Debug\net5.0\GenericsDemo.runtimeconfig.json
+D:\C#\C-Sharp-ASP.NET\GenericsDemo\GenericsDemo\bin\Debug\net5.0\GenericsDemo.runtimeconfig.dev.json
+D:\C#\C-Sharp-ASP.NET\GenericsDemo\GenericsDemo\bin\Debug\net5.0\GenericsDemo.dll
+D:\C#\C-Sharp-ASP.NET\GenericsDemo\GenericsDemo\bin\Debug\net5.0\ref\GenericsDemo.dll
+D:\C#\C-Sharp-ASP.NET\GenericsDemo\GenericsDemo\bin\Debug\net5.0\GenericsDemo.pdb
+D:\C#\C-Sharp-ASP.NET\GenericsDemo\GenericsDemo\obj\Debug\net5.0\GenericsDemo.csproj.AssemblyReference.cache
+D:\C#\C-Sharp-ASP.NET\GenericsDemo\GenericsDemo\obj\Debug\net5.0\GenericsDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\C-Sharp-ASP.NET\GenericsDemo\GenericsDemo\obj\Debug\net5.0\GenericsDemo.AssemblyInfoInputs.cache
+D:\C#\C-Sharp-ASP.NET\GenericsDemo\GenericsDemo\obj\Debug\net5.0\GenericsDemo.AssemblyInfo.cs
+D:\C#\C-Sharp-ASP.NET\GenericsDemo\GenericsDemo\obj\Debug\net5.0\GenericsDemo.csproj.CoreCompileInputs.cache
+D:\C#\C-Sharp-ASP.NET\GenericsDemo\GenericsDemo\obj\Debug\net5.0\GenericsDemo.dll
+D:\C#\C-Sharp-ASP.NET\GenericsDemo\GenericsDemo\obj\Debug\net5.0\ref\GenericsDemo.dll
+D:\C#\C-Sharp-ASP.NET\GenericsDemo\GenericsDemo\obj\Debug\net5.0\GenericsDemo.pdb
+D:\C#\C-Sharp-ASP.NET\GenericsDemo\GenericsDemo\obj\Debug\net5.0\GenericsDemo.genruntimeconfig.cache

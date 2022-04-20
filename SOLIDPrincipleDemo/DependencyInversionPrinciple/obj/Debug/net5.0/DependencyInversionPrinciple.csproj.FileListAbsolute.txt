@@ -1,0 +1,16 @@
+D:\C#\C-Sharp-ASP.NET\SOLIDPrincipleDemo\DependencyInversionPrinciple\bin\Debug\net5.0\DependencyInversionPrinciple.exe
+D:\C#\C-Sharp-ASP.NET\SOLIDPrincipleDemo\DependencyInversionPrinciple\bin\Debug\net5.0\DependencyInversionPrinciple.deps.json
+D:\C#\C-Sharp-ASP.NET\SOLIDPrincipleDemo\DependencyInversionPrinciple\bin\Debug\net5.0\DependencyInversionPrinciple.runtimeconfig.json
+D:\C#\C-Sharp-ASP.NET\SOLIDPrincipleDemo\DependencyInversionPrinciple\bin\Debug\net5.0\DependencyInversionPrinciple.runtimeconfig.dev.json
+D:\C#\C-Sharp-ASP.NET\SOLIDPrincipleDemo\DependencyInversionPrinciple\bin\Debug\net5.0\DependencyInversionPrinciple.dll
+D:\C#\C-Sharp-ASP.NET\SOLIDPrincipleDemo\DependencyInversionPrinciple\bin\Debug\net5.0\ref\DependencyInversionPrinciple.dll
+D:\C#\C-Sharp-ASP.NET\SOLIDPrincipleDemo\DependencyInversionPrinciple\bin\Debug\net5.0\DependencyInversionPrinciple.pdb
+D:\C#\C-Sharp-ASP.NET\SOLIDPrincipleDemo\DependencyInversionPrinciple\obj\Debug\net5.0\DependencyInversionPrinciple.csproj.AssemblyReference.cache
+D:\C#\C-Sharp-ASP.NET\SOLIDPrincipleDemo\DependencyInversionPrinciple\obj\Debug\net5.0\DependencyInversionPrinciple.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\C-Sharp-ASP.NET\SOLIDPrincipleDemo\DependencyInversionPrinciple\obj\Debug\net5.0\DependencyInversionPrinciple.AssemblyInfoInputs.cache
+D:\C#\C-Sharp-ASP.NET\SOLIDPrincipleDemo\DependencyInversionPrinciple\obj\Debug\net5.0\DependencyInversionPrinciple.AssemblyInfo.cs
+D:\C#\C-Sharp-ASP.NET\SOLIDPrincipleDemo\DependencyInversionPrinciple\obj\Debug\net5.0\DependencyInversionPrinciple.csproj.CoreCompileInputs.cache
+D:\C#\C-Sharp-ASP.NET\SOLIDPrincipleDemo\DependencyInversionPrinciple\obj\Debug\net5.0\DependencyInversionPrinciple.dll
+D:\C#\C-Sharp-ASP.NET\SOLIDPrincipleDemo\DependencyInversionPrinciple\obj\Debug\net5.0\ref\DependencyInversionPrinciple.dll
+D:\C#\C-Sharp-ASP.NET\SOLIDPrincipleDemo\DependencyInversionPrinciple\obj\Debug\net5.0\DependencyInversionPrinciple.pdb
+D:\C#\C-Sharp-ASP.NET\SOLIDPrincipleDemo\DependencyInversionPrinciple\obj\Debug\net5.0\DependencyInversionPrinciple.genruntimeconfig.cache

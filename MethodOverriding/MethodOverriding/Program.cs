@@ -41,8 +41,8 @@ namespace MethodOverriding
                 new Line(),
                 new Square()
             };
-            draw2[0].Draw();  // Instance of Line type, Calling Base Line.Draw()
-            draw2[1].Draw();  // Instance of Square type, Calling Base Square.Draw()
+            draw2[0].Draw();  // Instance of Line type, Calling Line.Draw()
+            draw2[1].Draw();  // Instance of Square type, Calling Square.Draw()
             Console.WriteLine();
             
             ((Line)draw2[0]).Draw();  // Type casting to Line type, Calling Base Line.Draw()

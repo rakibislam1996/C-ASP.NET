@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "66779b4b-2ade-4006-82fa-779a737f0685": {
+      "ProjectGuid": "66779b4b-2ade-4006-82fa-779a737f0685",
+      "DisplayName": "LinqDemo",
+      "ColorIndex": 0
+    },
+    "2fbdce0c-50a0-442a-84a0-d0d5acb6d546": {
+      "ProjectGuid": "2fbdce0c-50a0-442a-84a0-d0d5acb6d546",
+      "DisplayName": "LINQMethodSyntaxLamba",
+      "ColorIndex": 1
+    },
+    "6ab6fd87-d896-43ec-afd6-7fae0c0819f0": {
+      "ProjectGuid": "6ab6fd87-d896-43ec-afd6-7fae0c0819f0",
+      "DisplayName": "LINQQuerySyntax",
+      "ColorIndex": 2
+    },
+    "f5c63183-68e2-4632-960c-9cdbfb0230c4": {
+      "ProjectGuid": "f5c63183-68e2-4632-960c-9cdbfb0230c4",
+      "DisplayName": "QueryOperators",
+      "ColorIndex": 3
+    },
+    "452a73ba-98e2-4619-ae1f-4f9621570f3e": {
+      "ProjectGuid": "452a73ba-98e2-4619-ae1f-4f9621570f3e",
+      "DisplayName": "PartialClassDemo",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}

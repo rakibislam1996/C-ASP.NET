@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "12a2d731-fcc1-493a-b42c-ee0f3432ef6b": {
+      "ProjectGuid": "12a2d731-fcc1-493a-b42c-ee0f3432ef6b",
+      "DisplayName": "TupleDemo",
+      "ColorIndex": 0
+    },
+    "408eb472-3752-452b-9ed1-6f3f246ffd0f": {
+      "ProjectGuid": "408eb472-3752-452b-9ed1-6f3f246ffd0f",
+      "DisplayName": "ValueTuple",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "AsyncAwaitDemo2/1.0.0": {
+        "runtime": {
+          "AsyncAwaitDemo2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AsyncAwaitDemo2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

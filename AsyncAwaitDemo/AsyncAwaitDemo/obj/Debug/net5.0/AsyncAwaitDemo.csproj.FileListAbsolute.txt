@@ -1,0 +1,16 @@
+D:\C#\C-Sharp-ASP.NET\AsyncAwaitDemo\AsyncAwaitDemo\bin\Debug\net5.0\AsyncAwaitDemo.exe
+D:\C#\C-Sharp-ASP.NET\AsyncAwaitDemo\AsyncAwaitDemo\bin\Debug\net5.0\AsyncAwaitDemo.deps.json
+D:\C#\C-Sharp-ASP.NET\AsyncAwaitDemo\AsyncAwaitDemo\bin\Debug\net5.0\AsyncAwaitDemo.runtimeconfig.json
+D:\C#\C-Sharp-ASP.NET\AsyncAwaitDemo\AsyncAwaitDemo\bin\Debug\net5.0\AsyncAwaitDemo.runtimeconfig.dev.json
+D:\C#\C-Sharp-ASP.NET\AsyncAwaitDemo\AsyncAwaitDemo\bin\Debug\net5.0\AsyncAwaitDemo.dll
+D:\C#\C-Sharp-ASP.NET\AsyncAwaitDemo\AsyncAwaitDemo\bin\Debug\net5.0\ref\AsyncAwaitDemo.dll
+D:\C#\C-Sharp-ASP.NET\AsyncAwaitDemo\AsyncAwaitDemo\bin\Debug\net5.0\AsyncAwaitDemo.pdb
+D:\C#\C-Sharp-ASP.NET\AsyncAwaitDemo\AsyncAwaitDemo\obj\Debug\net5.0\AsyncAwaitDemo.csproj.AssemblyReference.cache
+D:\C#\C-Sharp-ASP.NET\AsyncAwaitDemo\AsyncAwaitDemo\obj\Debug\net5.0\AsyncAwaitDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\C-Sharp-ASP.NET\AsyncAwaitDemo\AsyncAwaitDemo\obj\Debug\net5.0\AsyncAwaitDemo.AssemblyInfoInputs.cache
+D:\C#\C-Sharp-ASP.NET\AsyncAwaitDemo\AsyncAwaitDemo\obj\Debug\net5.0\AsyncAwaitDemo.AssemblyInfo.cs
+D:\C#\C-Sharp-ASP.NET\AsyncAwaitDemo\AsyncAwaitDemo\obj\Debug\net5.0\AsyncAwaitDemo.csproj.CoreCompileInputs.cache
+D:\C#\C-Sharp-ASP.NET\AsyncAwaitDemo\AsyncAwaitDemo\obj\Debug\net5.0\AsyncAwaitDemo.dll
+D:\C#\C-Sharp-ASP.NET\AsyncAwaitDemo\AsyncAwaitDemo\obj\Debug\net5.0\ref\AsyncAwaitDemo.dll
+D:\C#\C-Sharp-ASP.NET\AsyncAwaitDemo\AsyncAwaitDemo\obj\Debug\net5.0\AsyncAwaitDemo.pdb
+D:\C#\C-Sharp-ASP.NET\AsyncAwaitDemo\AsyncAwaitDemo\obj\Debug\net5.0\AsyncAwaitDemo.genruntimeconfig.cache

@@ -7,6 +7,11 @@ namespace ReferenceVsValue
     class Student
     {
         public string Name { get; set; }
+        public Student(){ }
+        public Student(Student stu)
+        {
+            stu.Name = "Arafat";
+        }
     }
     class Program
     {
@@ -23,10 +28,10 @@ namespace ReferenceVsValue
         static void Main(string[] args)
         {
             int x = 10;
-            Program.Fun(x);
+            Fun(x);
             Console.WriteLine(x);
 
-            Program.Fun2(ref x);
+            Fun2(ref x);
             Console.WriteLine(x);
 
             int[] arr = { 5, 7, 8 };
@@ -42,9 +47,15 @@ namespace ReferenceVsValue
             Fun5(stu);
             Console.WriteLine(stu.Name);
 
+            Student stu2 = new Student(stu);
+            Console.WriteLine(stu.Name);
+
             int sum, sub, a = 30, b = 10;
             Fun6(a, b, out sum, out sub);
             Console.WriteLine(sum + " " + sub);
+
+
+
         }
     }
 }

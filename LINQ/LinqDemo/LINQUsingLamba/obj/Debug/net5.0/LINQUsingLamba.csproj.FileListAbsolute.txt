@@ -1,0 +1,16 @@
+D:\C#\C-Sharp-ASP.NET\LINQ\LinqDemo\LINQUsingLamba\bin\Debug\net5.0\LINQUsingLamba.exe
+D:\C#\C-Sharp-ASP.NET\LINQ\LinqDemo\LINQUsingLamba\bin\Debug\net5.0\LINQUsingLamba.deps.json
+D:\C#\C-Sharp-ASP.NET\LINQ\LinqDemo\LINQUsingLamba\bin\Debug\net5.0\LINQUsingLamba.runtimeconfig.json
+D:\C#\C-Sharp-ASP.NET\LINQ\LinqDemo\LINQUsingLamba\bin\Debug\net5.0\LINQUsingLamba.runtimeconfig.dev.json
+D:\C#\C-Sharp-ASP.NET\LINQ\LinqDemo\LINQUsingLamba\bin\Debug\net5.0\LINQUsingLamba.dll
+D:\C#\C-Sharp-ASP.NET\LINQ\LinqDemo\LINQUsingLamba\bin\Debug\net5.0\ref\LINQUsingLamba.dll
+D:\C#\C-Sharp-ASP.NET\LINQ\LinqDemo\LINQUsingLamba\bin\Debug\net5.0\LINQUsingLamba.pdb
+D:\C#\C-Sharp-ASP.NET\LINQ\LinqDemo\LINQUsingLamba\obj\Debug\net5.0\LINQUsingLamba.csproj.AssemblyReference.cache
+D:\C#\C-Sharp-ASP.NET\LINQ\LinqDemo\LINQUsingLamba\obj\Debug\net5.0\LINQUsingLamba.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\C-Sharp-ASP.NET\LINQ\LinqDemo\LINQUsingLamba\obj\Debug\net5.0\LINQUsingLamba.AssemblyInfoInputs.cache
+D:\C#\C-Sharp-ASP.NET\LINQ\LinqDemo\LINQUsingLamba\obj\Debug\net5.0\LINQUsingLamba.AssemblyInfo.cs
+D:\C#\C-Sharp-ASP.NET\LINQ\LinqDemo\LINQUsingLamba\obj\Debug\net5.0\LINQUsingLamba.csproj.CoreCompileInputs.cache
+D:\C#\C-Sharp-ASP.NET\LINQ\LinqDemo\LINQUsingLamba\obj\Debug\net5.0\LINQUsingLamba.dll
+D:\C#\C-Sharp-ASP.NET\LINQ\LinqDemo\LINQUsingLamba\obj\Debug\net5.0\ref\LINQUsingLamba.dll
+D:\C#\C-Sharp-ASP.NET\LINQ\LinqDemo\LINQUsingLamba\obj\Debug\net5.0\LINQUsingLamba.pdb
+D:\C#\C-Sharp-ASP.NET\LINQ\LinqDemo\LINQUsingLamba\obj\Debug\net5.0\LINQUsingLamba.genruntimeconfig.cache

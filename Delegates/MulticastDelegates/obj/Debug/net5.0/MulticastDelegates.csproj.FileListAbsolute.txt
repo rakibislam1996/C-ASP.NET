@@ -1,0 +1,16 @@
+D:\C#\C-Sharp-ASP.NET\Delegates\MulticastDelegates\bin\Debug\net5.0\MulticastDelegates.exe
+D:\C#\C-Sharp-ASP.NET\Delegates\MulticastDelegates\bin\Debug\net5.0\MulticastDelegates.deps.json
+D:\C#\C-Sharp-ASP.NET\Delegates\MulticastDelegates\bin\Debug\net5.0\MulticastDelegates.runtimeconfig.json
+D:\C#\C-Sharp-ASP.NET\Delegates\MulticastDelegates\bin\Debug\net5.0\MulticastDelegates.runtimeconfig.dev.json
+D:\C#\C-Sharp-ASP.NET\Delegates\MulticastDelegates\bin\Debug\net5.0\MulticastDelegates.dll
+D:\C#\C-Sharp-ASP.NET\Delegates\MulticastDelegates\bin\Debug\net5.0\ref\MulticastDelegates.dll
+D:\C#\C-Sharp-ASP.NET\Delegates\MulticastDelegates\bin\Debug\net5.0\MulticastDelegates.pdb
+D:\C#\C-Sharp-ASP.NET\Delegates\MulticastDelegates\obj\Debug\net5.0\MulticastDelegates.csproj.AssemblyReference.cache
+D:\C#\C-Sharp-ASP.NET\Delegates\MulticastDelegates\obj\Debug\net5.0\MulticastDelegates.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\C-Sharp-ASP.NET\Delegates\MulticastDelegates\obj\Debug\net5.0\MulticastDelegates.AssemblyInfoInputs.cache
+D:\C#\C-Sharp-ASP.NET\Delegates\MulticastDelegates\obj\Debug\net5.0\MulticastDelegates.AssemblyInfo.cs
+D:\C#\C-Sharp-ASP.NET\Delegates\MulticastDelegates\obj\Debug\net5.0\MulticastDelegates.csproj.CoreCompileInputs.cache
+D:\C#\C-Sharp-ASP.NET\Delegates\MulticastDelegates\obj\Debug\net5.0\MulticastDelegates.dll
+D:\C#\C-Sharp-ASP.NET\Delegates\MulticastDelegates\obj\Debug\net5.0\ref\MulticastDelegates.dll
+D:\C#\C-Sharp-ASP.NET\Delegates\MulticastDelegates\obj\Debug\net5.0\MulticastDelegates.pdb
+D:\C#\C-Sharp-ASP.NET\Delegates\MulticastDelegates\obj\Debug\net5.0\MulticastDelegates.genruntimeconfig.cache

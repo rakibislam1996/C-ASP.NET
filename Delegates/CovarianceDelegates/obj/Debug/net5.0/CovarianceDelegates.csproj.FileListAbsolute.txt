@@ -1,0 +1,16 @@
+D:\C#\C-Sharp-ASP.NET\Delegates\CovarianceDelegates\bin\Debug\net5.0\CovarianceDelegates.exe
+D:\C#\C-Sharp-ASP.NET\Delegates\CovarianceDelegates\bin\Debug\net5.0\CovarianceDelegates.deps.json
+D:\C#\C-Sharp-ASP.NET\Delegates\CovarianceDelegates\bin\Debug\net5.0\CovarianceDelegates.runtimeconfig.json
+D:\C#\C-Sharp-ASP.NET\Delegates\CovarianceDelegates\bin\Debug\net5.0\CovarianceDelegates.runtimeconfig.dev.json
+D:\C#\C-Sharp-ASP.NET\Delegates\CovarianceDelegates\bin\Debug\net5.0\CovarianceDelegates.dll
+D:\C#\C-Sharp-ASP.NET\Delegates\CovarianceDelegates\bin\Debug\net5.0\ref\CovarianceDelegates.dll
+D:\C#\C-Sharp-ASP.NET\Delegates\CovarianceDelegates\bin\Debug\net5.0\CovarianceDelegates.pdb
+D:\C#\C-Sharp-ASP.NET\Delegates\CovarianceDelegates\obj\Debug\net5.0\CovarianceDelegates.csproj.AssemblyReference.cache
+D:\C#\C-Sharp-ASP.NET\Delegates\CovarianceDelegates\obj\Debug\net5.0\CovarianceDelegates.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\C-Sharp-ASP.NET\Delegates\CovarianceDelegates\obj\Debug\net5.0\CovarianceDelegates.AssemblyInfoInputs.cache
+D:\C#\C-Sharp-ASP.NET\Delegates\CovarianceDelegates\obj\Debug\net5.0\CovarianceDelegates.AssemblyInfo.cs
+D:\C#\C-Sharp-ASP.NET\Delegates\CovarianceDelegates\obj\Debug\net5.0\CovarianceDelegates.csproj.CoreCompileInputs.cache
+D:\C#\C-Sharp-ASP.NET\Delegates\CovarianceDelegates\obj\Debug\net5.0\CovarianceDelegates.dll
+D:\C#\C-Sharp-ASP.NET\Delegates\CovarianceDelegates\obj\Debug\net5.0\ref\CovarianceDelegates.dll
+D:\C#\C-Sharp-ASP.NET\Delegates\CovarianceDelegates\obj\Debug\net5.0\CovarianceDelegates.pdb
+D:\C#\C-Sharp-ASP.NET\Delegates\CovarianceDelegates\obj\Debug\net5.0\CovarianceDelegates.genruntimeconfig.cache

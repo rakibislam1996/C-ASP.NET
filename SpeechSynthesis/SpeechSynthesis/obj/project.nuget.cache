@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "EQimzJ9PcHvEBb8F+M3gusJfiseYrlHShDSz9LATnzpflUIiQ5W++70TXUpfYBdSWMUQTrffQhx9DKgP4L5oHA==",
+  "success": true,
+  "projectFilePath": "D:\\C#\\C-Sharp-ASP.NET\\SpeechSynthesis\\SpeechSynthesis\\SpeechSynthesis.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rakib\\.nuget\\packages\\system.speech\\6.0.0\\system.speech.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

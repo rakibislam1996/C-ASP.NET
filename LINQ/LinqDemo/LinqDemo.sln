@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31912.275
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LinqDemo", "LinqDemo\LinqDemo.csproj", "{66779B4B-2ADE-4006-82FA-779A737F0685}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LINQMethodSyntaxLamba", "LINQUsingLamba\LINQMethodSyntaxLamba.csproj", "{2FBDCE0C-50A0-442A-84A0-D0D5ACB6D546}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LINQQuerySyntax", "LINQQuerySyntax\LINQQuerySyntax.csproj", "{6AB6FD87-D896-43EC-AFD6-7FAE0C0819F0}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "QueryOperators", "QueryOperators\QueryOperators.csproj", "{F5C63183-68E2-4632-960C-9CDBFB0230C4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{66779B4B-2ADE-4006-82FA-779A737F0685}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66779B4B-2ADE-4006-82FA-779A737F0685}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66779B4B-2ADE-4006-82FA-779A737F0685}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66779B4B-2ADE-4006-82FA-779A737F0685}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2FBDCE0C-50A0-442A-84A0-D0D5ACB6D546}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2FBDCE0C-50A0-442A-84A0-D0D5ACB6D546}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2FBDCE0C-50A0-442A-84A0-D0D5ACB6D546}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2FBDCE0C-50A0-442A-84A0-D0D5ACB6D546}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6AB6FD87-D896-43EC-AFD6-7FAE0C0819F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6AB6FD87-D896-43EC-AFD6-7FAE0C0819F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6AB6FD87-D896-43EC-AFD6-7FAE0C0819F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6AB6FD87-D896-43EC-AFD6-7FAE0C0819F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F5C63183-68E2-4632-960C-9CDBFB0230C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5C63183-68E2-4632-960C-9CDBFB0230C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5C63183-68E2-4632-960C-9CDBFB0230C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5C63183-68E2-4632-960C-9CDBFB0230C4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {34B6FD7A-FDCE-4033-8CDB-3C0A97885514}
+	EndGlobalSection
+EndGlobal

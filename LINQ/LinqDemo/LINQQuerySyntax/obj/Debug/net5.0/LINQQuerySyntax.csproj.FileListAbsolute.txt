@@ -1,0 +1,16 @@
+D:\C#\C-Sharp-ASP.NET\LINQ\LinqDemo\LINQQuerySyntax\bin\Debug\net5.0\LINQQuerySyntax.exe
+D:\C#\C-Sharp-ASP.NET\LINQ\LinqDemo\LINQQuerySyntax\bin\Debug\net5.0\LINQQuerySyntax.deps.json
+D:\C#\C-Sharp-ASP.NET\LINQ\LinqDemo\LINQQuerySyntax\bin\Debug\net5.0\LINQQuerySyntax.runtimeconfig.json
+D:\C#\C-Sharp-ASP.NET\LINQ\LinqDemo\LINQQuerySyntax\bin\Debug\net5.0\LINQQuerySyntax.runtimeconfig.dev.json
+D:\C#\C-Sharp-ASP.NET\LINQ\LinqDemo\LINQQuerySyntax\bin\Debug\net5.0\LINQQuerySyntax.dll
+D:\C#\C-Sharp-ASP.NET\LINQ\LinqDemo\LINQQuerySyntax\bin\Debug\net5.0\ref\LINQQuerySyntax.dll
+D:\C#\C-Sharp-ASP.NET\LINQ\LinqDemo\LINQQuerySyntax\bin\Debug\net5.0\LINQQuerySyntax.pdb
+D:\C#\C-Sharp-ASP.NET\LINQ\LinqDemo\LINQQuerySyntax\obj\Debug\net5.0\LINQQuerySyntax.csproj.AssemblyReference.cache
+D:\C#\C-Sharp-ASP.NET\LINQ\LinqDemo\LINQQuerySyntax\obj\Debug\net5.0\LINQQuerySyntax.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\C-Sharp-ASP.NET\LINQ\LinqDemo\LINQQuerySyntax\obj\Debug\net5.0\LINQQuerySyntax.AssemblyInfoInputs.cache
+D:\C#\C-Sharp-ASP.NET\LINQ\LinqDemo\LINQQuerySyntax\obj\Debug\net5.0\LINQQuerySyntax.AssemblyInfo.cs
+D:\C#\C-Sharp-ASP.NET\LINQ\LinqDemo\LINQQuerySyntax\obj\Debug\net5.0\LINQQuerySyntax.csproj.CoreCompileInputs.cache
+D:\C#\C-Sharp-ASP.NET\LINQ\LinqDemo\LINQQuerySyntax\obj\Debug\net5.0\LINQQuerySyntax.dll
+D:\C#\C-Sharp-ASP.NET\LINQ\LinqDemo\LINQQuerySyntax\obj\Debug\net5.0\ref\LINQQuerySyntax.dll
+D:\C#\C-Sharp-ASP.NET\LINQ\LinqDemo\LINQQuerySyntax\obj\Debug\net5.0\LINQQuerySyntax.pdb
+D:\C#\C-Sharp-ASP.NET\LINQ\LinqDemo\LINQQuerySyntax\obj\Debug\net5.0\LINQQuerySyntax.genruntimeconfig.cache

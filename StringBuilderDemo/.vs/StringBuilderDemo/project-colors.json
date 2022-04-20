@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "76f0cd80-65aa-42f6-90ae-9ac87eaf82d3": {
+      "ProjectGuid": "76f0cd80-65aa-42f6-90ae-9ac87eaf82d3",
+      "DisplayName": "StringBuilderDemo",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

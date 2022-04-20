@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "803629a2-f67f-4daf-9291-bb039dd0be3b": {
+      "ProjectGuid": "803629a2-f67f-4daf-9291-bb039dd0be3b",
+      "DisplayName": "SpeechSynthesis",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

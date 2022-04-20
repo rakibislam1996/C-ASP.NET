@@ -1,0 +1,16 @@
+D:\C#\C-Sharp-ASP.NET\GenericsDemo\GenericClass\bin\Debug\net5.0\GenericClass.exe
+D:\C#\C-Sharp-ASP.NET\GenericsDemo\GenericClass\bin\Debug\net5.0\GenericClass.deps.json
+D:\C#\C-Sharp-ASP.NET\GenericsDemo\GenericClass\bin\Debug\net5.0\GenericClass.runtimeconfig.json
+D:\C#\C-Sharp-ASP.NET\GenericsDemo\GenericClass\bin\Debug\net5.0\GenericClass.runtimeconfig.dev.json
+D:\C#\C-Sharp-ASP.NET\GenericsDemo\GenericClass\bin\Debug\net5.0\GenericClass.dll
+D:\C#\C-Sharp-ASP.NET\GenericsDemo\GenericClass\bin\Debug\net5.0\ref\GenericClass.dll
+D:\C#\C-Sharp-ASP.NET\GenericsDemo\GenericClass\bin\Debug\net5.0\GenericClass.pdb
+D:\C#\C-Sharp-ASP.NET\GenericsDemo\GenericClass\obj\Debug\net5.0\GenericClass.csproj.AssemblyReference.cache
+D:\C#\C-Sharp-ASP.NET\GenericsDemo\GenericClass\obj\Debug\net5.0\GenericClass.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\C-Sharp-ASP.NET\GenericsDemo\GenericClass\obj\Debug\net5.0\GenericClass.AssemblyInfoInputs.cache
+D:\C#\C-Sharp-ASP.NET\GenericsDemo\GenericClass\obj\Debug\net5.0\GenericClass.AssemblyInfo.cs
+D:\C#\C-Sharp-ASP.NET\GenericsDemo\GenericClass\obj\Debug\net5.0\GenericClass.csproj.CoreCompileInputs.cache
+D:\C#\C-Sharp-ASP.NET\GenericsDemo\GenericClass\obj\Debug\net5.0\GenericClass.dll
+D:\C#\C-Sharp-ASP.NET\GenericsDemo\GenericClass\obj\Debug\net5.0\ref\GenericClass.dll
+D:\C#\C-Sharp-ASP.NET\GenericsDemo\GenericClass\obj\Debug\net5.0\GenericClass.pdb
+D:\C#\C-Sharp-ASP.NET\GenericsDemo\GenericClass\obj\Debug\net5.0\GenericClass.genruntimeconfig.cache

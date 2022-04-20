@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "4zwWFZhhAo7j4qx/DB2dXflEuiCl000WqB0g+8pPsRDmk2gJ2hcpbigT/LYw1J4xG+MiaVMNAq4waErXcJw5Eg==",
+  "success": true,
+  "projectFilePath": "D:\\C#\\C-Sharp-ASP.NET\\ClientDemo\\ClientDemo\\ClientDemo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rakib\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

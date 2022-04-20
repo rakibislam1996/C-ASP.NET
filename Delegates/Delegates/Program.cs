@@ -3,8 +3,9 @@
 namespace Delegates
 {
 
-    public delegate int AreaDelegate(int b, int h);
-    public delegate int HeightDelegate(int area, int b);
+    public delegate int Calculate(int b, int h);
+    
+    //public delegate int HeightDelegate(int area, int b);
     class Triangle
     {
         public int Area(int b,int h)
@@ -23,13 +24,21 @@ namespace Delegates
         static void Main(string[] args)
         {
             Triangle tri = new Triangle();
-            AreaDelegate del = new AreaDelegate(tri.Area); // If the method is not declared as static
+            Calculate del = new Calculate(tri.Area); // If the method is not declared as static
             int area = del(10,20) ;
             Console.WriteLine($"Area of triangle : {area}");
 
-            AreaDelegate del1 = new AreaDelegate(Triangle.Height); // If the method is declared as static
+            Calculate del1 = new Calculate(Triangle.Height); // If the method is declared as static
             int height = del1(area, 20);
             Console.WriteLine($"Height of triangle : {height}");
+
+            Calculate del2 = new Calculate(Base);
+            int _base = del2(area, height);
+            Console.WriteLine($"Base of triangle : {_base}");
+        }
+        public static int Base(int area, int height)
+        {
+            return (2 * area) / height;
         }
     }
 }

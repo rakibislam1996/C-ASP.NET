@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "01aaa333-9354-4837-a552-02a8fe795e31": {
+      "ProjectGuid": "01aaa333-9354-4837-a552-02a8fe795e31",
+      "DisplayName": "GenericsDemo",
+      "ColorIndex": 0
+    },
+    "6c1cca00-1ae0-4fb9-9d4f-6f494810e537": {
+      "ProjectGuid": "6c1cca00-1ae0-4fb9-9d4f-6f494810e537",
+      "DisplayName": "GenericClass",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

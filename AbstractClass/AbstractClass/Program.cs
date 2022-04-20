@@ -2,50 +2,60 @@
 
 namespace AbstractClass
 {
-    abstract class Rectangle
+    abstract class Polygon
     {
-        public abstract void AreaOfRect();
+        public virtual void Area() { Console.WriteLine("This is default area"); }
     }
-    abstract class Polygon : Rectangle
-    {
-        public int Len { get; set; }
-        public abstract void Area();
-        public void Volume()
-        {
-            Console.WriteLine($"This non-abstract method Volume() with Len = {Len}");
-        }
-    }
-
     class Triangle : Polygon
     {
         public override void Area()
         {
-            Console.WriteLine($"This abstract method Area() with Len = {Len}");
-        }
-        public override void AreaOfRect()
-        {
-            Console.WriteLine("Area of rectangle");
+            Console.WriteLine("Area of Triangle");
         }
     }
+    abstract class Quadrilateral : Polygon
+    {
+        public override void Area()
+        {
+            Console.WriteLine("Area of Quadrilateral");
+        }
+        public abstract void AreaOfQuadrilateral();
+        
+    }
+    class Rectangle : Quadrilateral
+    {
+        public override void Area()
+        {
+            Console.WriteLine("Area of Rectangle");
+        }
+        public override void AreaOfQuadrilateral()
+        {
+            Console.WriteLine("Area of a Quadrilateral");
+        }
+    }
+
+    
 
     class Program
     {
         static void Main(string[] args)
         {
-            Rectangle rect = new Triangle();
-            rect.AreaOfRect();
-
             Polygon poly = new Triangle();
-            poly.Len = 10;
             poly.Area();
-            poly.Volume();
-            poly.AreaOfRect();
+            Console.WriteLine();
 
             Triangle tri = new Triangle();
-            tri.Len = 15;
             tri.Area();
-            tri.Volume();
-            tri.AreaOfRect();
+            Console.WriteLine();
+
+            Quadrilateral quad = new Rectangle();
+            quad.Area();
+            quad.AreaOfQuadrilateral();
+            Console.WriteLine();
+
+            Rectangle rect = new Rectangle();
+            rect.Area();
+            rect.AreaOfQuadrilateral();
         }
     }
 }

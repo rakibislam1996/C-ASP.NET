@@ -14,8 +14,10 @@ namespace DictionaryDemo
                 {"Rakib" , 10},
                 {"Sakib" , 11},
                 {"Fahim" , 12},
-                {"Fimu" , 13},
+                {"Arafat" , 13},
             };
+            if (!stu.ContainsKey("John"))
+                stu.Add("John",14);
 
             stu.Add("Hamid", 14);
 

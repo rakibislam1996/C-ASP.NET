@@ -5,7 +5,37 @@
       "ProjectGuid": "74f23f9c-052d-487a-8547-471bd01526e6",
       "DisplayName": "Delegates",
       "ColorIndex": 0
+    },
+    "685a6ba2-a614-4b2a-8fb2-a154fac4d3f5": {
+      "ProjectGuid": "685a6ba2-a614-4b2a-8fb2-a154fac4d3f5",
+      "DisplayName": "MulticastDelegates",
+      "ColorIndex": 1
+    },
+    "517998b2-b4d3-40ca-9b4c-0a2984b3678b": {
+      "ProjectGuid": "517998b2-b4d3-40ca-9b4c-0a2984b3678b",
+      "DisplayName": "FuncAction",
+      "ColorIndex": 2
+    },
+    "423454ae-1a10-476d-afa3-6227f95ada89": {
+      "ProjectGuid": "423454ae-1a10-476d-afa3-6227f95ada89",
+      "DisplayName": "FuncDelegates",
+      "ColorIndex": 3
+    },
+    "0a29a4e4-2b4e-4045-aa65-85f0a7c15b77": {
+      "ProjectGuid": "0a29a4e4-2b4e-4045-aa65-85f0a7c15b77",
+      "DisplayName": "ActionDelegates",
+      "ColorIndex": 4
+    },
+    "bf48644b-c197-4b80-83c7-0baec93dc90f": {
+      "ProjectGuid": "bf48644b-c197-4b80-83c7-0baec93dc90f",
+      "DisplayName": "PredicateDelegates",
+      "ColorIndex": 5
+    },
+    "a65509c2-4b6f-4d9f-b0d4-63e4bf48209c": {
+      "ProjectGuid": "a65509c2-4b6f-4d9f-b0d4-63e4bf48209c",
+      "DisplayName": "CovarianceDelegates",
+      "ColorIndex": 6
     }
   },
-  "NextColorIndex": 1
+  "NextColorIndex": 7
 }

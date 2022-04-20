@@ -1,0 +1,16 @@
+D:\C#\C-Sharp-ASP.NET\ExtensionMethodDemo\ExtensionMethodDemo\bin\Debug\net5.0\ExtensionMethodDemo.exe
+D:\C#\C-Sharp-ASP.NET\ExtensionMethodDemo\ExtensionMethodDemo\bin\Debug\net5.0\ExtensionMethodDemo.deps.json
+D:\C#\C-Sharp-ASP.NET\ExtensionMethodDemo\ExtensionMethodDemo\bin\Debug\net5.0\ExtensionMethodDemo.runtimeconfig.json
+D:\C#\C-Sharp-ASP.NET\ExtensionMethodDemo\ExtensionMethodDemo\bin\Debug\net5.0\ExtensionMethodDemo.runtimeconfig.dev.json
+D:\C#\C-Sharp-ASP.NET\ExtensionMethodDemo\ExtensionMethodDemo\bin\Debug\net5.0\ExtensionMethodDemo.dll
+D:\C#\C-Sharp-ASP.NET\ExtensionMethodDemo\ExtensionMethodDemo\bin\Debug\net5.0\ref\ExtensionMethodDemo.dll
+D:\C#\C-Sharp-ASP.NET\ExtensionMethodDemo\ExtensionMethodDemo\bin\Debug\net5.0\ExtensionMethodDemo.pdb
+D:\C#\C-Sharp-ASP.NET\ExtensionMethodDemo\ExtensionMethodDemo\obj\Debug\net5.0\ExtensionMethodDemo.csproj.AssemblyReference.cache
+D:\C#\C-Sharp-ASP.NET\ExtensionMethodDemo\ExtensionMethodDemo\obj\Debug\net5.0\ExtensionMethodDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\C-Sharp-ASP.NET\ExtensionMethodDemo\ExtensionMethodDemo\obj\Debug\net5.0\ExtensionMethodDemo.AssemblyInfoInputs.cache
+D:\C#\C-Sharp-ASP.NET\ExtensionMethodDemo\ExtensionMethodDemo\obj\Debug\net5.0\ExtensionMethodDemo.AssemblyInfo.cs
+D:\C#\C-Sharp-ASP.NET\ExtensionMethodDemo\ExtensionMethodDemo\obj\Debug\net5.0\ExtensionMethodDemo.csproj.CoreCompileInputs.cache
+D:\C#\C-Sharp-ASP.NET\ExtensionMethodDemo\ExtensionMethodDemo\obj\Debug\net5.0\ExtensionMethodDemo.dll
+D:\C#\C-Sharp-ASP.NET\ExtensionMethodDemo\ExtensionMethodDemo\obj\Debug\net5.0\ref\ExtensionMethodDemo.dll
+D:\C#\C-Sharp-ASP.NET\ExtensionMethodDemo\ExtensionMethodDemo\obj\Debug\net5.0\ExtensionMethodDemo.pdb
+D:\C#\C-Sharp-ASP.NET\ExtensionMethodDemo\ExtensionMethodDemo\obj\Debug\net5.0\ExtensionMethodDemo.genruntimeconfig.cache

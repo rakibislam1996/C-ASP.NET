@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "7a20340e-865a-4ad4-9d4e-84f2efa42ab4": {
+      "ProjectGuid": "7a20340e-865a-4ad4-9d4e-84f2efa42ab4",
+      "DisplayName": "SOLIDPrincipleDemo",
+      "ColorIndex": 0
+    },
+    "8574caa7-aedd-483f-8f86-0d9fe4e5d2de": {
+      "ProjectGuid": "8574caa7-aedd-483f-8f86-0d9fe4e5d2de",
+      "DisplayName": "SingleResponsibiltyPrinciple",
+      "ColorIndex": 1
+    },
+    "94e2b655-3172-45ec-a09c-eea7f4968bd8": {
+      "ProjectGuid": "94e2b655-3172-45ec-a09c-eea7f4968bd8",
+      "DisplayName": "OpenClosedPrinciple",
+      "ColorIndex": 2
+    },
+    "6fbdf5c2-837b-4a9a-8fdb-b9f173f0a402": {
+      "ProjectGuid": "6fbdf5c2-837b-4a9a-8fdb-b9f173f0a402",
+      "DisplayName": "LiskovSubstitutionPrinciple",
+      "ColorIndex": 3
+    },
+    "e1710aad-d688-4d0f-9317-c6dbd0bbc6ca": {
+      "ProjectGuid": "e1710aad-d688-4d0f-9317-c6dbd0bbc6ca",
+      "DisplayName": "InterfaceSegregationPrinciple",
+      "ColorIndex": 4
+    },
+    "9340cd56-f0d8-4e24-808e-e99337c61616": {
+      "ProjectGuid": "9340cd56-f0d8-4e24-808e-e99337c61616",
+      "DisplayName": "DependencyInversionPrinciple",
+      "ColorIndex": 5
+    }
+  },
+  "NextColorIndex": 6
+}

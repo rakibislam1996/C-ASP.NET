@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "CXBIUFTEgdugnPmADcykKNzQG0qaLioov5eaT0YVGLRkGgUVahC3T8U/kJsnX9q3nqv/Tb2ES33w/yIvnqijDQ==",
+  "success": true,
+  "projectFilePath": "D:\\C#\\C-Sharp-ASP.NET\\ClientDemo\\ClientDemo2\\ClientDemo2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rakib\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\rakib\\.nuget\\packages\\restsharp\\107.3.0\\restsharp.107.3.0.nupkg.sha512",
+    "C:\\Users\\rakib\\.nuget\\packages\\system.text.json\\5.0.0\\system.text.json.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

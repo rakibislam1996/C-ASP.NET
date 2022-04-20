@@ -1,0 +1,16 @@
+D:\C#\C-Sharp-ASP.NET\LINQ\LinqDemo\QueryOperators\bin\Debug\net5.0\QueryOperators.exe
+D:\C#\C-Sharp-ASP.NET\LINQ\LinqDemo\QueryOperators\bin\Debug\net5.0\QueryOperators.deps.json
+D:\C#\C-Sharp-ASP.NET\LINQ\LinqDemo\QueryOperators\bin\Debug\net5.0\QueryOperators.runtimeconfig.json
+D:\C#\C-Sharp-ASP.NET\LINQ\LinqDemo\QueryOperators\bin\Debug\net5.0\QueryOperators.runtimeconfig.dev.json
+D:\C#\C-Sharp-ASP.NET\LINQ\LinqDemo\QueryOperators\bin\Debug\net5.0\QueryOperators.dll
+D:\C#\C-Sharp-ASP.NET\LINQ\LinqDemo\QueryOperators\bin\Debug\net5.0\ref\QueryOperators.dll
+D:\C#\C-Sharp-ASP.NET\LINQ\LinqDemo\QueryOperators\bin\Debug\net5.0\QueryOperators.pdb
+D:\C#\C-Sharp-ASP.NET\LINQ\LinqDemo\QueryOperators\obj\Debug\net5.0\QueryOperators.csproj.AssemblyReference.cache
+D:\C#\C-Sharp-ASP.NET\LINQ\LinqDemo\QueryOperators\obj\Debug\net5.0\QueryOperators.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\C-Sharp-ASP.NET\LINQ\LinqDemo\QueryOperators\obj\Debug\net5.0\QueryOperators.AssemblyInfoInputs.cache
+D:\C#\C-Sharp-ASP.NET\LINQ\LinqDemo\QueryOperators\obj\Debug\net5.0\QueryOperators.AssemblyInfo.cs
+D:\C#\C-Sharp-ASP.NET\LINQ\LinqDemo\QueryOperators\obj\Debug\net5.0\QueryOperators.csproj.CoreCompileInputs.cache
+D:\C#\C-Sharp-ASP.NET\LINQ\LinqDemo\QueryOperators\obj\Debug\net5.0\QueryOperators.dll
+D:\C#\C-Sharp-ASP.NET\LINQ\LinqDemo\QueryOperators\obj\Debug\net5.0\ref\QueryOperators.dll
+D:\C#\C-Sharp-ASP.NET\LINQ\LinqDemo\QueryOperators\obj\Debug\net5.0\QueryOperators.pdb
+D:\C#\C-Sharp-ASP.NET\LINQ\LinqDemo\QueryOperators\obj\Debug\net5.0\QueryOperators.genruntimeconfig.cache

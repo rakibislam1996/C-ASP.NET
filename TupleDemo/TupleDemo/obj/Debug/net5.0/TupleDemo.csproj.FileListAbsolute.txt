@@ -1,0 +1,15 @@
+D:\C#\C-Sharp-ASP.NET\TupleDemo\TupleDemo\bin\Debug\net5.0\TupleDemo.exe
+D:\C#\C-Sharp-ASP.NET\TupleDemo\TupleDemo\bin\Debug\net5.0\TupleDemo.deps.json
+D:\C#\C-Sharp-ASP.NET\TupleDemo\TupleDemo\bin\Debug\net5.0\TupleDemo.runtimeconfig.json
+D:\C#\C-Sharp-ASP.NET\TupleDemo\TupleDemo\bin\Debug\net5.0\TupleDemo.runtimeconfig.dev.json
+D:\C#\C-Sharp-ASP.NET\TupleDemo\TupleDemo\bin\Debug\net5.0\TupleDemo.dll
+D:\C#\C-Sharp-ASP.NET\TupleDemo\TupleDemo\bin\Debug\net5.0\ref\TupleDemo.dll
+D:\C#\C-Sharp-ASP.NET\TupleDemo\TupleDemo\bin\Debug\net5.0\TupleDemo.pdb
+D:\C#\C-Sharp-ASP.NET\TupleDemo\TupleDemo\obj\Debug\net5.0\TupleDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\C-Sharp-ASP.NET\TupleDemo\TupleDemo\obj\Debug\net5.0\TupleDemo.AssemblyInfoInputs.cache
+D:\C#\C-Sharp-ASP.NET\TupleDemo\TupleDemo\obj\Debug\net5.0\TupleDemo.AssemblyInfo.cs
+D:\C#\C-Sharp-ASP.NET\TupleDemo\TupleDemo\obj\Debug\net5.0\TupleDemo.csproj.CoreCompileInputs.cache
+D:\C#\C-Sharp-ASP.NET\TupleDemo\TupleDemo\obj\Debug\net5.0\TupleDemo.dll
+D:\C#\C-Sharp-ASP.NET\TupleDemo\TupleDemo\obj\Debug\net5.0\ref\TupleDemo.dll
+D:\C#\C-Sharp-ASP.NET\TupleDemo\TupleDemo\obj\Debug\net5.0\TupleDemo.pdb
+D:\C#\C-Sharp-ASP.NET\TupleDemo\TupleDemo\obj\Debug\net5.0\TupleDemo.genruntimeconfig.cache
